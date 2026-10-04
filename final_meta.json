@@ -1,0 +1,2774 @@
+{
+ "english": [
+  {
+   "n": 1,
+   "file": "papers/english/01_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3455230
+  },
+  {
+   "n": 2,
+   "file": "papers/english/02_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 465085
+  },
+  {
+   "n": 3,
+   "file": "papers/english/03_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 466090
+  },
+  {
+   "n": 4,
+   "file": "papers/english/04_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 465257
+  },
+  {
+   "n": 5,
+   "file": "papers/english/05_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 483039
+  },
+  {
+   "n": 6,
+   "file": "papers/english/06_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 466297
+  },
+  {
+   "n": 7,
+   "file": "papers/english/07_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 467101
+  },
+  {
+   "n": 8,
+   "file": "papers/english/08_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3463816
+  },
+  {
+   "n": 9,
+   "file": "papers/english/09_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3488451
+  },
+  {
+   "n": 10,
+   "file": "papers/english/10_2026_main.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 350495
+  },
+  {
+   "n": 11,
+   "file": "papers/english/11_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 248746
+  },
+  {
+   "n": 12,
+   "file": "papers/english/12_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 242586
+  },
+  {
+   "n": 13,
+   "file": "papers/english/13_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 249068
+  },
+  {
+   "n": 14,
+   "file": "papers/english/14_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2267264
+  },
+  {
+   "n": 15,
+   "file": "papers/english/15_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2851171
+  },
+  {
+   "n": 16,
+   "file": "papers/english/16_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3126075
+  },
+  {
+   "n": 17,
+   "file": "papers/english/17_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 243935
+  },
+  {
+   "n": 18,
+   "file": "papers/english/18_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 238133
+  },
+  {
+   "n": 19,
+   "file": "papers/english/19_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 244484
+  },
+  {
+   "n": 20,
+   "file": "papers/english/20_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2270831
+  },
+  {
+   "n": 21,
+   "file": "papers/english/21_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2850536
+  },
+  {
+   "n": 22,
+   "file": "papers/english/22_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3108402
+  },
+  {
+   "n": 23,
+   "file": "papers/english/23_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 243226
+  },
+  {
+   "n": 24,
+   "file": "papers/english/24_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 238184
+  },
+  {
+   "n": 25,
+   "file": "papers/english/25_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 244703
+  },
+  {
+   "n": 26,
+   "file": "papers/english/26_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2260767
+  },
+  {
+   "n": 27,
+   "file": "papers/english/27_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2833614
+  },
+  {
+   "n": 28,
+   "file": "papers/english/28_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3037347
+  },
+  {
+   "n": 29,
+   "file": "papers/english/29_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 283837
+  },
+  {
+   "n": 30,
+   "file": "papers/english/30_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 271184
+  },
+  {
+   "n": 31,
+   "file": "papers/english/31_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 270199
+  },
+  {
+   "n": 32,
+   "file": "papers/english/32_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 271012
+  },
+  {
+   "n": 33,
+   "file": "papers/english/33_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2599024
+  },
+  {
+   "n": 34,
+   "file": "papers/english/34_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3304057
+  },
+  {
+   "n": 35,
+   "file": "papers/english/35_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2986507
+  },
+  {
+   "n": 36,
+   "file": "papers/english/36_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 683065
+  },
+  {
+   "n": 37,
+   "file": "papers/english/37_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1404575
+  },
+  {
+   "n": 38,
+   "file": "papers/english/38_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2560131
+  },
+  {
+   "n": 39,
+   "file": "papers/english/39_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3807099
+  },
+  {
+   "n": 40,
+   "file": "papers/english/40_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3193676
+  },
+  {
+   "n": 41,
+   "file": "papers/english/41_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 906215
+  },
+  {
+   "n": 42,
+   "file": "papers/english/42_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1495578
+  },
+  {
+   "n": 43,
+   "file": "papers/english/43_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2531232
+  },
+  {
+   "n": 44,
+   "file": "papers/english/44_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3586941
+  },
+  {
+   "n": 45,
+   "file": "papers/english/45_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3030545
+  },
+  {
+   "n": 46,
+   "file": "papers/english/46_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 678149
+  },
+  {
+   "n": 47,
+   "file": "papers/english/47_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1287994
+  },
+  {
+   "n": 48,
+   "file": "papers/english/48_2024_main.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1114639
+  },
+  {
+   "n": 49,
+   "file": "papers/english/49_2024_compartment.pdf",
+   "year": 2024,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 374328
+  },
+  {
+   "n": 50,
+   "file": "papers/english/50_2024_compartment.pdf",
+   "year": 2024,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 377809
+  }
+ ],
+ "math": [
+  {
+   "n": 1,
+   "file": "papers/math/01_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2876860
+  },
+  {
+   "n": 2,
+   "file": "papers/math/02_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3346328
+  },
+  {
+   "n": 3,
+   "file": "papers/math/03_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3618767
+  },
+  {
+   "n": 4,
+   "file": "papers/math/04_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2189547
+  },
+  {
+   "n": 5,
+   "file": "papers/math/05_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2238939
+  },
+  {
+   "n": 6,
+   "file": "papers/math/06_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2087053
+  },
+  {
+   "n": 7,
+   "file": "papers/math/07_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3037414
+  },
+  {
+   "n": 8,
+   "file": "papers/math/08_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3500427
+  },
+  {
+   "n": 9,
+   "file": "papers/math/09_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3600915
+  },
+  {
+   "n": 10,
+   "file": "papers/math/10_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2101524
+  },
+  {
+   "n": 11,
+   "file": "papers/math/11_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2301273
+  },
+  {
+   "n": 12,
+   "file": "papers/math/12_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1969999
+  },
+  {
+   "n": 13,
+   "file": "papers/math/13_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2959181
+  },
+  {
+   "n": 14,
+   "file": "papers/math/14_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3374344
+  },
+  {
+   "n": 15,
+   "file": "papers/math/15_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3621539
+  },
+  {
+   "n": 16,
+   "file": "papers/math/16_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2115653
+  },
+  {
+   "n": 17,
+   "file": "papers/math/17_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2186446
+  },
+  {
+   "n": 18,
+   "file": "papers/math/18_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2009221
+  },
+  {
+   "n": 19,
+   "file": "papers/math/19_2026_main_set30.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "30",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 531401
+  },
+  {
+   "n": 20,
+   "file": "papers/math/20_2026_main_set30.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "30",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1609258
+  },
+  {
+   "n": 21,
+   "file": "papers/math/21_2026_main_set30.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "30",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1626337
+  },
+  {
+   "n": 22,
+   "file": "papers/math/22_2026_main_set30.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "30",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1629515
+  },
+  {
+   "n": 23,
+   "file": "papers/math/23_2026_main_set30.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "30",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1370223
+  },
+  {
+   "n": 24,
+   "file": "papers/math/24_2026_main_set30.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "30",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1367687
+  },
+  {
+   "n": 25,
+   "file": "papers/math/25_2026_main_set30.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "30",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1383648
+  },
+  {
+   "n": 26,
+   "file": "papers/math/26_2026_main_set430.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "430",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1317875
+  },
+  {
+   "n": 27,
+   "file": "papers/math/27_2026_main_set430.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "430",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1352898
+  },
+  {
+   "n": 28,
+   "file": "papers/math/28_2026_main_set430.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "430",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1318625
+  },
+  {
+   "n": 29,
+   "file": "papers/math/29_2026_main_set430.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "430",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1301861
+  },
+  {
+   "n": 30,
+   "file": "papers/math/30_2026_main_set430.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "430",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1346518
+  },
+  {
+   "n": 31,
+   "file": "papers/math/31_2026_main_set430.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "430",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1319842
+  },
+  {
+   "n": 32,
+   "file": "papers/math/32_2026_main_set430.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "430",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 532947
+  },
+  {
+   "n": 33,
+   "file": "papers/math/33_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1953002
+  },
+  {
+   "n": 34,
+   "file": "papers/math/34_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2050912
+  },
+  {
+   "n": 35,
+   "file": "papers/math/35_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1936142
+  },
+  {
+   "n": 36,
+   "file": "papers/math/36_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3390704
+  },
+  {
+   "n": 37,
+   "file": "papers/math/37_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5102159
+  },
+  {
+   "n": 38,
+   "file": "papers/math/38_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4723749
+  },
+  {
+   "n": 39,
+   "file": "papers/math/39_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2846318
+  },
+  {
+   "n": 40,
+   "file": "papers/math/40_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4351706
+  },
+  {
+   "n": 41,
+   "file": "papers/math/41_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4377722
+  },
+  {
+   "n": 42,
+   "file": "papers/math/42_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1931468
+  },
+  {
+   "n": 43,
+   "file": "papers/math/43_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2098074
+  },
+  {
+   "n": 44,
+   "file": "papers/math/44_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1986232
+  },
+  {
+   "n": 45,
+   "file": "papers/math/45_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3533004
+  },
+  {
+   "n": 46,
+   "file": "papers/math/46_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5113166
+  },
+  {
+   "n": 47,
+   "file": "papers/math/47_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4750627
+  },
+  {
+   "n": 48,
+   "file": "papers/math/48_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2844297
+  },
+  {
+   "n": 49,
+   "file": "papers/math/49_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4412776
+  },
+  {
+   "n": 50,
+   "file": "papers/math/50_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4379372
+  }
+ ],
+ "science": [
+  {
+   "n": 1,
+   "file": "papers/science/01_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4730426
+  },
+  {
+   "n": 2,
+   "file": "papers/science/02_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4616620
+  },
+  {
+   "n": 3,
+   "file": "papers/science/03_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4963813
+  },
+  {
+   "n": 4,
+   "file": "papers/science/04_2026_main_set31.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "31",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1824431
+  },
+  {
+   "n": 5,
+   "file": "papers/science/05_2026_main_set31.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "31",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1802323
+  },
+  {
+   "n": 6,
+   "file": "papers/science/06_2026_main_set31.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "31",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1726815
+  },
+  {
+   "n": 7,
+   "file": "papers/science/07_2026_main_set31.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "31",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1359917
+  },
+  {
+   "n": 8,
+   "file": "papers/science/08_2026_main_set31.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "31",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1888193
+  },
+  {
+   "n": 9,
+   "file": "papers/science/09_2026_main_set31.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "31",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1917402
+  },
+  {
+   "n": 10,
+   "file": "papers/science/10_2026_main.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 755754
+  },
+  {
+   "n": 11,
+   "file": "papers/science/11_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 769004
+  },
+  {
+   "n": 12,
+   "file": "papers/science/12_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 962739
+  },
+  {
+   "n": 13,
+   "file": "papers/science/13_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 932372
+  },
+  {
+   "n": 14,
+   "file": "papers/science/14_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3515035
+  },
+  {
+   "n": 15,
+   "file": "papers/science/15_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3951522
+  },
+  {
+   "n": 16,
+   "file": "papers/science/16_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3941396
+  },
+  {
+   "n": 17,
+   "file": "papers/science/17_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 749006
+  },
+  {
+   "n": 18,
+   "file": "papers/science/18_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1001639
+  },
+  {
+   "n": 19,
+   "file": "papers/science/19_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 897473
+  },
+  {
+   "n": 20,
+   "file": "papers/science/20_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3814602
+  },
+  {
+   "n": 21,
+   "file": "papers/science/21_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4010033
+  },
+  {
+   "n": 22,
+   "file": "papers/science/22_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3948030
+  },
+  {
+   "n": 23,
+   "file": "papers/science/23_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 743703
+  },
+  {
+   "n": 24,
+   "file": "papers/science/24_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 851719
+  },
+  {
+   "n": 25,
+   "file": "papers/science/25_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 953346
+  },
+  {
+   "n": 26,
+   "file": "papers/science/26_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3751076
+  },
+  {
+   "n": 27,
+   "file": "papers/science/27_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4106841
+  },
+  {
+   "n": 28,
+   "file": "papers/science/28_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3579802
+  },
+  {
+   "n": 29,
+   "file": "papers/science/29_2025_main.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3423201
+  },
+  {
+   "n": 30,
+   "file": "papers/science/30_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 591173
+  },
+  {
+   "n": 31,
+   "file": "papers/science/31_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 628829
+  },
+  {
+   "n": 32,
+   "file": "papers/science/32_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3470362
+  },
+  {
+   "n": 33,
+   "file": "papers/science/33_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4162739
+  },
+  {
+   "n": 34,
+   "file": "papers/science/34_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3888160
+  },
+  {
+   "n": 35,
+   "file": "papers/science/35_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1745034
+  },
+  {
+   "n": 36,
+   "file": "papers/science/36_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1667210
+  },
+  {
+   "n": 37,
+   "file": "papers/science/37_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3420216
+  },
+  {
+   "n": 38,
+   "file": "papers/science/38_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4235760
+  },
+  {
+   "n": 39,
+   "file": "papers/science/39_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3795643
+  },
+  {
+   "n": 40,
+   "file": "papers/science/40_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1572486
+  },
+  {
+   "n": 41,
+   "file": "papers/science/41_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1644803
+  },
+  {
+   "n": 42,
+   "file": "papers/science/42_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3438960
+  },
+  {
+   "n": 43,
+   "file": "papers/science/43_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4287239
+  },
+  {
+   "n": 44,
+   "file": "papers/science/44_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3979038
+  },
+  {
+   "n": 45,
+   "file": "papers/science/45_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1166964
+  },
+  {
+   "n": 46,
+   "file": "papers/science/46_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1422445
+  },
+  {
+   "n": 47,
+   "file": "papers/science/47_2024_main.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 839663
+  },
+  {
+   "n": 48,
+   "file": "papers/science/48_2024_main.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 3945271
+  },
+  {
+   "n": 49,
+   "file": "papers/science/49_2024_compartment.pdf",
+   "year": 2024,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 703951
+  },
+  {
+   "n": 50,
+   "file": "papers/science/50_2024_compartment.pdf",
+   "year": 2024,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 611627
+  }
+ ],
+ "social": [
+  {
+   "n": 1,
+   "file": "papers/social/01_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5933417
+  },
+  {
+   "n": 2,
+   "file": "papers/social/02_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4408378
+  },
+  {
+   "n": 3,
+   "file": "papers/social/03_2026_main_set1.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5117475
+  },
+  {
+   "n": 4,
+   "file": "papers/social/04_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 6004777
+  },
+  {
+   "n": 5,
+   "file": "papers/social/05_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4391293
+  },
+  {
+   "n": 6,
+   "file": "papers/social/06_2026_main_set2.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5142292
+  },
+  {
+   "n": 7,
+   "file": "papers/social/07_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5864650
+  },
+  {
+   "n": 8,
+   "file": "papers/social/08_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4356059
+  },
+  {
+   "n": 9,
+   "file": "papers/social/09_2026_main_set3.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5128793
+  },
+  {
+   "n": 10,
+   "file": "papers/social/10_2026_main_set32.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "32",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1838904
+  },
+  {
+   "n": 11,
+   "file": "papers/social/11_2026_main_set32.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "32",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1838193
+  },
+  {
+   "n": 12,
+   "file": "papers/social/12_2026_main_set32.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "32",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1839495
+  },
+  {
+   "n": 13,
+   "file": "papers/social/13_2026_main_set32.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "32",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1710408
+  },
+  {
+   "n": 14,
+   "file": "papers/social/14_2026_main_set32.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "32",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1709139
+  },
+  {
+   "n": 15,
+   "file": "papers/social/15_2026_main_set32.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "32",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1710030
+  },
+  {
+   "n": 16,
+   "file": "papers/social/16_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2234795
+  },
+  {
+   "n": 17,
+   "file": "papers/social/17_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2480782
+  },
+  {
+   "n": 18,
+   "file": "papers/social/18_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1844567
+  },
+  {
+   "n": 19,
+   "file": "papers/social/19_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4309360
+  },
+  {
+   "n": 20,
+   "file": "papers/social/20_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4833222
+  },
+  {
+   "n": 21,
+   "file": "papers/social/21_2025_main_set1.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4151066
+  },
+  {
+   "n": 22,
+   "file": "papers/social/22_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2195666
+  },
+  {
+   "n": 23,
+   "file": "papers/social/23_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2456191
+  },
+  {
+   "n": 24,
+   "file": "papers/social/24_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1765929
+  },
+  {
+   "n": 25,
+   "file": "papers/social/25_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4216434
+  },
+  {
+   "n": 26,
+   "file": "papers/social/26_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4753095
+  },
+  {
+   "n": 27,
+   "file": "papers/social/27_2025_main_set2.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4146456
+  },
+  {
+   "n": 28,
+   "file": "papers/social/28_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2254670
+  },
+  {
+   "n": 29,
+   "file": "papers/social/29_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2473600
+  },
+  {
+   "n": 30,
+   "file": "papers/social/30_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1730983
+  },
+  {
+   "n": 31,
+   "file": "papers/social/31_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4260181
+  },
+  {
+   "n": 32,
+   "file": "papers/social/32_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4769071
+  },
+  {
+   "n": 33,
+   "file": "papers/social/33_2025_main_set3.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4124498
+  },
+  {
+   "n": 34,
+   "file": "papers/social/34_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 729850
+  },
+  {
+   "n": 35,
+   "file": "papers/social/35_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 731260
+  },
+  {
+   "n": 36,
+   "file": "papers/social/36_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 728891
+  },
+  {
+   "n": 37,
+   "file": "papers/social/37_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 7519165
+  },
+  {
+   "n": 38,
+   "file": "papers/social/38_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3043319
+  },
+  {
+   "n": 39,
+   "file": "papers/social/39_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2090150
+  },
+  {
+   "n": 40,
+   "file": "papers/social/40_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 565165
+  },
+  {
+   "n": 41,
+   "file": "papers/social/41_2024_main_set1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 543068
+  },
+  {
+   "n": 42,
+   "file": "papers/social/42_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 7546953
+  },
+  {
+   "n": 43,
+   "file": "papers/social/43_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3042662
+  },
+  {
+   "n": 44,
+   "file": "papers/social/44_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2088759
+  },
+  {
+   "n": 45,
+   "file": "papers/social/45_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 565235
+  },
+  {
+   "n": 46,
+   "file": "papers/social/46_2024_main_set2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 541794
+  },
+  {
+   "n": 47,
+   "file": "papers/social/47_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 7536866
+  },
+  {
+   "n": 48,
+   "file": "papers/social/48_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3042960
+  },
+  {
+   "n": 49,
+   "file": "papers/social/49_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2089165
+  },
+  {
+   "n": 50,
+   "file": "papers/social/50_2024_main_set3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 563800
+  }
+ ],
+ "arabic": [
+  {
+   "n": 1,
+   "file": "papers/arabic/01_2026_main.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 461403
+  },
+  {
+   "n": 2,
+   "file": "papers/arabic/02_2025_main.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1380517
+  },
+  {
+   "n": 3,
+   "file": "papers/arabic/03_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 660274
+  },
+  {
+   "n": 4,
+   "file": "papers/arabic/04_2024_main.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 660807
+  },
+  {
+   "n": 5,
+   "file": "papers/arabic/05_2024_compartment.pdf",
+   "year": 2024,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 338719
+  },
+  {
+   "n": 6,
+   "file": "papers/arabic/06_2023_main.pdf",
+   "year": 2023,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2119140
+  },
+  {
+   "n": 7,
+   "file": "papers/arabic/07_2023_compartment.pdf",
+   "year": 2023,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2046075
+  },
+  {
+   "n": 8,
+   "file": "papers/arabic/08_2022_main.pdf",
+   "year": 2022,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3428627
+  },
+  {
+   "n": 9,
+   "file": "papers/arabic/09_2020_main.pdf",
+   "year": 2020,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1904222
+  },
+  {
+   "n": 10,
+   "file": "papers/arabic/10_2020_compartment.pdf",
+   "year": 2020,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1711164
+  },
+  {
+   "n": 11,
+   "file": "papers/arabic/11_2019_main.pdf",
+   "year": 2019,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1861113
+  },
+  {
+   "n": 12,
+   "file": "papers/arabic/12_2019_main.pdf",
+   "year": 2019,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 1907876
+  },
+  {
+   "n": 13,
+   "file": "papers/arabic/13_2019_compartment.pdf",
+   "year": 2019,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1795313
+  },
+  {
+   "n": 14,
+   "file": "papers/arabic/14_2019_compartment.pdf",
+   "year": 2019,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 3821750
+  },
+  {
+   "n": 15,
+   "file": "papers/arabic/15_2018_main.pdf",
+   "year": 2018,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 204475
+  },
+  {
+   "n": 16,
+   "file": "papers/arabic/16_2018_main.pdf",
+   "year": 2018,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSEGuess",
+   "size": 170534
+  },
+  {
+   "n": 17,
+   "file": "papers/arabic/17_2017_main.pdf",
+   "year": 2017,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 1758859
+  },
+  {
+   "n": 18,
+   "file": "papers/arabic/18_2017_main.pdf",
+   "year": 2017,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSEGuess",
+   "size": 1706912
+  },
+  {
+   "n": 19,
+   "file": "papers/arabic/19_2017_compartment.pdf",
+   "year": 2017,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 161398
+  },
+  {
+   "n": 20,
+   "file": "papers/arabic/20_2017_compartment.pdf",
+   "year": 2017,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 195198
+  },
+  {
+   "n": 21,
+   "file": "papers/arabic/21_2016_main_set4.pdf",
+   "year": 2016,
+   "exam": "Main",
+   "set": "4",
+   "type": "Board",
+   "source": "CBSEGuess",
+   "size": 1658861
+  },
+  {
+   "n": 22,
+   "file": "papers/arabic/22_2016_main.pdf",
+   "year": 2016,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 1702234
+  },
+  {
+   "n": 23,
+   "file": "papers/arabic/23_2013_compartment.pdf",
+   "year": 2013,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSEGuess",
+   "size": 4039636
+  },
+  {
+   "n": 24,
+   "file": "papers/arabic/24_2012_main_set1.pdf",
+   "year": 2012,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSEGuess",
+   "size": 3169388
+  },
+  {
+   "n": 25,
+   "file": "papers/arabic/25_2011_main_set1.pdf",
+   "year": 2011,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSEGuess",
+   "size": 253466
+  },
+  {
+   "n": 26,
+   "file": "papers/arabic/26_2009_main.pdf",
+   "year": 2009,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Archive",
+   "size": 2099397
+  },
+  {
+   "n": 27,
+   "file": "papers/arabic/27_2026_sample_paper.pdf",
+   "year": 2026,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 1208094
+  },
+  {
+   "n": 28,
+   "file": "papers/arabic/28_2025_sample_paper.pdf",
+   "year": 2025,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 405152
+  },
+  {
+   "n": 29,
+   "file": "papers/arabic/29_2024_sample_paper.pdf",
+   "year": 2024,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 315119
+  },
+  {
+   "n": 30,
+   "file": "papers/arabic/30_2023_sample_paper.pdf",
+   "year": 2023,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 1342639
+  },
+  {
+   "n": 31,
+   "file": "papers/arabic/31_2022_sample_paper.pdf",
+   "year": 2022,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 1465639
+  },
+  {
+   "n": 32,
+   "file": "papers/arabic/32_2021_sample_paper.pdf",
+   "year": 2021,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 794887
+  },
+  {
+   "n": 33,
+   "file": "papers/arabic/33_2020_sample_paper.pdf",
+   "year": 2020,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 3721752
+  },
+  {
+   "n": 34,
+   "file": "papers/arabic/34_2020_sample_paper.pdf",
+   "year": 2020,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 2815084
+  },
+  {
+   "n": 35,
+   "file": "papers/arabic/35_2019_sample_paper.pdf",
+   "year": 2019,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 1019959
+  },
+  {
+   "n": 36,
+   "file": "papers/arabic/36_2018_sample_paper.pdf",
+   "year": 2018,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 1064187
+  },
+  {
+   "n": 37,
+   "file": "papers/arabic/37_2017_sample_paper.pdf",
+   "year": 2017,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 1088978
+  },
+  {
+   "n": 38,
+   "file": "papers/arabic/38_2017_sample_paper.pdf",
+   "year": 2017,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 257432
+  },
+  {
+   "n": 39,
+   "file": "papers/arabic/39_2016_sample_paper.pdf",
+   "year": 2016,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 2113271
+  }
+ ],
+ "ait": [
+  {
+   "n": 1,
+   "file": "papers/ait/01_2026_main.pdf",
+   "year": 2026,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 658042
+  },
+  {
+   "n": 2,
+   "file": "papers/ait/02_2025_main.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 501172
+  },
+  {
+   "n": 3,
+   "file": "papers/ait/03_2025_main.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 331954
+  },
+  {
+   "n": 4,
+   "file": "papers/ait/04_2025_main.pdf",
+   "year": 2025,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 450775
+  },
+  {
+   "n": 5,
+   "file": "papers/ait/05_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1333562
+  },
+  {
+   "n": 6,
+   "file": "papers/ait/06_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1421760
+  },
+  {
+   "n": 7,
+   "file": "papers/ait/07_2025_compartment.pdf",
+   "year": 2025,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 575300
+  },
+  {
+   "n": 8,
+   "file": "papers/ait/08_2024_main.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2462299
+  },
+  {
+   "n": 9,
+   "file": "papers/ait/09_2024_main.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 454574
+  },
+  {
+   "n": 10,
+   "file": "papers/ait/10_2024_main.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 3173231
+  },
+  {
+   "n": 11,
+   "file": "papers/ait/11_2024_main.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 921619
+  },
+  {
+   "n": 12,
+   "file": "papers/ait/12_2023_main.pdf",
+   "year": 2023,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2492392
+  },
+  {
+   "n": 13,
+   "file": "papers/ait/13_2023_main.pdf",
+   "year": 2023,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3487309
+  },
+  {
+   "n": 14,
+   "file": "papers/ait/14_2023_compartment.pdf",
+   "year": 2023,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1363297
+  },
+  {
+   "n": 15,
+   "file": "papers/ait/15_2022_main.pdf",
+   "year": 2022,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1433953
+  },
+  {
+   "n": 16,
+   "file": "papers/ait/16_2022_main.pdf",
+   "year": 2022,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1419928
+  },
+  {
+   "n": 17,
+   "file": "papers/ait/17_2022_compartment.pdf",
+   "year": 2022,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 651096
+  },
+  {
+   "n": 18,
+   "file": "papers/ait/18_2021_compartment.pdf",
+   "year": 2021,
+   "exam": "Compartment",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 176128
+  },
+  {
+   "n": 19,
+   "file": "papers/ait/19_2020_main.pdf",
+   "year": 2020,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 317352
+  },
+  {
+   "n": 20,
+   "file": "papers/ait/20_2019_main.pdf",
+   "year": 2019,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 212436
+  },
+  {
+   "n": 21,
+   "file": "papers/ait/21_2019_main.pdf",
+   "year": 2019,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 249933
+  },
+  {
+   "n": 22,
+   "file": "papers/ait/22_2018_main.pdf",
+   "year": 2018,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 615141
+  },
+  {
+   "n": 23,
+   "file": "papers/ait/23_2018_main.pdf",
+   "year": 2018,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Mirror",
+   "size": 560681
+  },
+  {
+   "n": 24,
+   "file": "papers/ait/24_2026_sample_paper.pdf",
+   "year": 2026,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 989736
+  },
+  {
+   "n": 25,
+   "file": "papers/ait/25_2026_sample_paper.pdf",
+   "year": 2026,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 4376084
+  },
+  {
+   "n": 26,
+   "file": "papers/ait/26_2025_sample_paper.pdf",
+   "year": 2025,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 377426
+  },
+  {
+   "n": 27,
+   "file": "papers/ait/27_2025_sample_paper.pdf",
+   "year": 2025,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 973317
+  },
+  {
+   "n": 28,
+   "file": "papers/ait/28_2024_sample_paper.pdf",
+   "year": 2024,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 353947
+  },
+  {
+   "n": 29,
+   "file": "papers/ait/29_2024_sample_paper.pdf",
+   "year": 2024,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 257854
+  },
+  {
+   "n": 30,
+   "file": "papers/ait/30_2023_sample_paper.pdf",
+   "year": 2023,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 626033
+  },
+  {
+   "n": 31,
+   "file": "papers/ait/31_2023_sample_paper.pdf",
+   "year": 2023,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 863691
+  },
+  {
+   "n": 32,
+   "file": "papers/ait/32_2022_sample_paper.pdf",
+   "year": 2022,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 456507
+  },
+  {
+   "n": 33,
+   "file": "papers/ait/33_2022_sample_paper.pdf",
+   "year": 2022,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 461769
+  },
+  {
+   "n": 34,
+   "file": "papers/ait/34_2022_sample_paper.pdf",
+   "year": 2022,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 361992
+  },
+  {
+   "n": 35,
+   "file": "papers/ait/35_2022_sample_paper.pdf",
+   "year": 2022,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 351319
+  },
+  {
+   "n": 36,
+   "file": "papers/ait/36_2021_sample_paper.pdf",
+   "year": 2021,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 758180
+  },
+  {
+   "n": 37,
+   "file": "papers/ait/37_2021_sample_paper.pdf",
+   "year": 2021,
+   "exam": "Sample",
+   "set": "",
+   "type": "Sample",
+   "source": "CBSE Official SQP",
+   "size": 676750
+  }
+ ]
+}
