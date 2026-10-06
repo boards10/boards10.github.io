@@ -25,24 +25,6 @@ You can also open the guide page for study tips: [`blog.html`](blog.html).
 
 The site runs on [GitHub Pages](https://pages.github.com/), which hosts static sites from a repository at no cost. There is no server, database or tracking.
 
-## Run it on your own GitHub (free)
-
-1. Create a **public** repository named `<your-username>.github.io`.
-2. Upload `index.html`, `blog.html` and a `pyq/` folder with your PDFs.
-3. In the repository go to **Settings → Pages**, set the source to the `main` branch, root folder, and save.
-4. Your site goes live at `https://<your-username>.github.io` within a few minutes.
-
-## Repository structure
-
-```
-boards10.github.io/
-├── index.html        # home page with download links
-├── blog.html         # Class 10 PYQ guide: topics, weightage, focus areas
-├── pyq/              # question paper PDFs (e.g. maths-2025.pdf)
-├── sitemap.xml       # helps Google find your pages
-├── robots.txt
-└── README.md
-```
 
 ## One-click download links
 
@@ -61,12 +43,3 @@ Use plain links to files in the repo. Add the `download` attribute so the browse
 ## Disclaimer
 
 Boards10 is an independent student resource. It is not affiliated with CBSE or NCERT. Always check the official syllabus and datesheet at [cbse.gov.in](https://www.cbse.gov.in/) and [cbseacademic.nic.in](https://cbseacademic.nic.in/).
-
-## SEO checklist (to rank on Google)
-
-- [ ] Add `sitemap.xml` and `robots.txt`.
-- [ ] Verify the site in [Google Search Console](https://search.google.com/search-console) and submit the sitemap.
-- [ ] Give every PDF link descriptive text, for example "Class 10 Maths PYQ 2025", not "click here".
-- [ ] Link `index.html` and `blog.html` to each other.
-- [ ] Keep pages fast and mobile friendly.
-- [ ] Update the pages every exam season.
