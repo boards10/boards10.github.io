@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: 
-
 Sitemap: https://boards10.github.io/sitemap.xml
