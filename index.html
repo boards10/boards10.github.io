@@ -143,6 +143,15 @@
     color: var(--primary);
   }
   .btn.outline:hover { background: rgba(187,134,252,0.1); }
+  .footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; max-width: 860px; margin: 0 auto 2rem; text-align: left; }
+  .footer-col h4 { margin: 0 0 0.8rem 0; color: #fff; font-size: 1rem; }
+  .footer-col ul { list-style: none; padding: 0; margin: 0; }
+  .footer-col ul li { margin-bottom: 0.4rem; }
+  .footer-col ul li a { color: var(--text-muted); text-decoration: none; }
+  .footer-col ul li a:hover { color: var(--primary); }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 1.5rem; margin: 1.5rem auto; max-width: 1370px; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2.5rem 1.5rem; text-align: center; color: var(--text-muted); font-size: 0.9rem; margin-top: 4rem; }
+  footer a { color: var(--primary); text-decoration: none; }
 </style>
 </head>
 <body>
@@ -240,17 +249,38 @@ function renderList() {
 window.onload = () => { initTabs(); renderList(); };
 </script>
 
-<footer style="background:#1e1e1e;border-top:1px solid #333;padding:2rem 1.5rem;text-align:center;color:#a0a0a0;font-size:0.85rem;margin-top:1.5rem;">
-  <p>&copy; 2026 <strong style="color:#e0e0e0;">Boards10</strong> &mdash; Free, Open CBSE Class 10 Previous Year Paper Archive.</p>
-  <p style="margin-top:0.5rem;">
-    <a href="index.html" style="color:#bb86fc;text-decoration:none;">Question Papers & PDF Viewer</a> &bull;
-    <a href="faq.html" style="color:#bb86fc;text-decoration:none;">CBSE FAQ & Exam Guide</a> &bull;
-    <a href="cbse-class-10-maths-pyq.html" style="color:#bb86fc;text-decoration:none;">Maths PYQs</a> &bull;
-    <a href="cbse-class-10-science-pyq.html" style="color:#bb86fc;text-decoration:none;">Science PYQs</a> &bull;
-    <a href="cbse-class-10-social-science-pyq.html" style="color:#bb86fc;text-decoration:none;">SST PYQs</a> &bull;
-    <a href="cbse-class-10-english-pyq.html" style="color:#bb86fc;text-decoration:none;">English PYQs</a> &bull;
-    <a href="blog.html" style="color:#bb86fc;text-decoration:none;">Blog & Weightage</a>
-  </p>
+<div style="max-width:1400px; margin:0 auto; padding:0 1.5rem;">
+  <div class="card" style="text-align:center;">
+      <p style="font-weight:600; color:#fff; margin:0 0 10px 0;">Share this page with friends:</p>
+      <div style="display:flex; justify-content:center; gap:20px;">
+          <a href="https://wa.me/?text=Check+out+CBSE+Class+10+Previous+Year+Question+Papers+Archive:+https://boards10.github.io/" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">WhatsApp</a>
+          <a href="https://t.me/share/url?url=https://boards10.github.io/&text=Free+CBSE+Class+10+PYQ+Archive!" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">Telegram</a>
+          <a href="https://www.reddit.com/submit?url=https://boards10.github.io/&title=CBSE+Class+10+Previous+Year+Question+Papers+Archive" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">Reddit</a>
+      </div>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-grid">
+    <div class="footer-col">
+        <h4>Main Pages</h4>
+        <ul>
+            <li><a href="index.html">Home (PDF Viewer)</a></li>
+            <li><a href="faq.html">Exam Guide</a></li>
+            <li><a href="blog.html">Blog & Weightage</a></li>
+        </ul>
+    </div>
+    <div class="footer-col">
+        <h4>Subject PYQs</h4>
+        <ul>
+            <li><a href="cbse-class-10-maths-pyq.html">Maths</a></li>
+            <li><a href="cbse-class-10-science-pyq.html">Science</a></li>
+            <li><a href="cbse-class-10-social-science-pyq.html">Social Science</a></li>
+            <li><a href="cbse-class-10-english-pyq.html">English</a></li>
+        </ul>
+    </div>
+  </div>
+  <p>&copy; 2026 <strong>Boards10</strong> &mdash; Free, Open CBSE Class 10 Previous Year Paper Archive.</p>
 </footer>
 </body>
 </html>

@@ -173,6 +173,19 @@
     color: var(--text-muted); font-size: 0.9rem;
   }
   footer a { color: var(--primary); text-decoration: none; }
+  .footer-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem; max-width: 860px; margin: 0 auto 2rem; text-align: left;
+  }
+  .footer-col h4 { margin: 0 0 0.8rem 0; color: #fff; font-size: 1rem; }
+  .footer-col ul { list-style: none; padding: 0; margin: 0; }
+  .footer-col ul li { margin-bottom: 0.4rem; }
+  .footer-col ul li a { color: var(--text-muted); text-decoration: none; }
+  .footer-col ul li a:hover { color: var(--primary); }
+  .card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 1.5rem; margin: 1.5rem 0;
+  }
 </style>
 </head>
 <body>
@@ -352,21 +365,37 @@
         <li><strong>December:</strong> Solve previous 3 years' official CBSE sample papers.</li>
         <li><strong>January – February:</strong> Full-length mock papers (10:30 AM to 1:30 PM, matching real exam slot) from the Boards10 archive every alternate day.</li>
       </ul>
-    </div>
+  <div class="card" style="text-align:center;">
+      <p style="font-weight:600; color:#fff; margin:0 0 10px 0;">Share this page with friends:</p>
+      <div style="display:flex; justify-content:center; gap:20px;">
+          <a href="https://wa.me/?text=Check+out+CBSE+Class+10+Exam+Guide+and+FAQs:+https://boards10.github.io/faq.html" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">WhatsApp</a>
+          <a href="https://t.me/share/url?url=https://boards10.github.io/faq.html&text=CBSE+Class+10+Exam+Guide+and+FAQs!" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">Telegram</a>
+          <a href="https://www.reddit.com/submit?url=https://boards10.github.io/faq.html&title=CBSE+Class+10+FAQs+and+Exam+Guide" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">Reddit</a>
+      </div>
   </div>
 </div>
 
 <footer>
+  <div class="footer-grid">
+    <div class="footer-col">
+        <h4>Main Pages</h4>
+        <ul>
+            <li><a href="index.html">Home (PDF Viewer)</a></li>
+            <li><a href="faq.html">Exam Guide</a></li>
+            <li><a href="blog.html">Blog & Weightage</a></li>
+        </ul>
+    </div>
+    <div class="footer-col">
+        <h4>Subject PYQs</h4>
+        <ul>
+            <li><a href="cbse-class-10-maths-pyq.html">Maths</a></li>
+            <li><a href="cbse-class-10-science-pyq.html">Science</a></li>
+            <li><a href="cbse-class-10-social-science-pyq.html">Social Science</a></li>
+            <li><a href="cbse-class-10-english-pyq.html">English</a></li>
+        </ul>
+    </div>
+  </div>
   <p>&copy; 2026 <strong>Boards10</strong> &mdash; Free, Open CBSE Class 10 Previous Year Paper Archive.</p>
-  <p style="margin-top:0.5rem;">
-    <a href="index.html">Question Papers & PDF Viewer</a> &bull;
-    <a href="faq.html">CBSE FAQ & Exam Guide</a> &bull;
-    <a href="cbse-class-10-maths-pyq.html">Maths PYQs</a> &bull;
-    <a href="cbse-class-10-science-pyq.html">Science PYQs</a> &bull;
-    <a href="cbse-class-10-social-science-pyq.html">SST PYQs</a> &bull;
-    <a href="cbse-class-10-english-pyq.html">English PYQs</a> &bull;
-    <a href="blog.html">Blog & Weightage</a>
-  </p>
 </footer>
 
 <script>

@@ -22,8 +22,14 @@
   p, li { color: #cfcfcf; }
   .btn { background: var(--primary); color: #000; padding: 0.6rem 1.2rem; border-radius: 6px; font-weight: 600; text-decoration: none; display: inline-block; margin: 1rem 0; }
   .card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 1.5rem; margin: 1.5rem 0; }
-  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; color: var(--muted); font-size: 0.9rem; margin-top: 4rem; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2.5rem 1.5rem; text-align: center; color: var(--muted); font-size: 0.9rem; margin-top: 4rem; }
   footer a { color: var(--primary); text-decoration: none; }
+  .footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; max-width: 860px; margin: 0 auto 2rem; text-align: left; }
+  .footer-col h4 { margin: 0 0 0.8rem 0; color: #fff; font-size: 1rem; }
+  .footer-col ul { list-style: none; padding: 0; margin: 0; }
+  .footer-col ul li { margin-bottom: 0.4rem; }
+  .footer-col ul li a { color: var(--muted); text-decoration: none; }
+  .footer-col ul li a:hover { color: var(--primary); }
 </style>
 </head>
 <body>
@@ -32,13 +38,14 @@
   <div class="nav-links">
     <a href="index.html">All Papers Viewer</a>
     <a href="faq.html">FAQs & Guide</a>
+    <a href="blog.html">Blog</a>
   </div>
 </header>
 
 <div class="container">
   <h2>CBSE Class 10 Mathematics Previous Year Question Papers</h2>
   <p>Mastering mathematics for the CBSE Class 10 board exam requires solving previous years' question papers (PYQs) and understanding the distinction between <strong>Mathematics Standard</strong> and <strong>Mathematics Basic</strong>.</p>
-  
+
   <a href="index.html" class="btn">🚀 Open Interactive Maths PDF Viewer & Download All Papers</a>
 
   <div class="card">
@@ -64,19 +71,38 @@
     <h3>How to Use Our Archive</h3>
     <p>Our archive contains official CBSE board papers from 2009 to 2026, complete with compartment papers and sample sets. Use our built-in PDF viewer on the homepage to instantly preview any year without downloads, or download entire ZIP archives with one click.</p>
   </div>
+
+  <div class="card" style="text-align:center;">
+    <p style="font-weight:600; color:#fff; margin:0 0 10px 0;">Share this page with friends:</p>
+    <div style="display:flex; justify-content:center; gap:20px;">
+        <a href="https://wa.me/?text=Check+out+CBSE+Class+10+Maths+PYQs+and+Answers:+https://boards10.github.io/cbse-class-10-maths-pyq.html" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">WhatsApp</a>
+        <a href="https://t.me/share/url?url=https://boards10.github.io/cbse-class-10-maths-pyq.html&text=Free+CBSE+Class+10+Maths+PYQs!" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">Telegram</a>
+        <a href="https://www.reddit.com/submit?url=https://boards10.github.io/cbse-class-10-maths-pyq.html&title=CBSE+Class+10+Maths+Previous+Year+Papers" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">Reddit</a>
+    </div>
+  </div>
 </div>
 
 <footer>
+  <div class="footer-grid">
+    <div class="footer-col">
+        <h4>Main Pages</h4>
+        <ul>
+            <li><a href="index.html">Home (PDF Viewer)</a></li>
+            <li><a href="faq.html">Exam Guide</a></li>
+            <li><a href="blog.html">Blog & Weightage</a></li>
+        </ul>
+    </div>
+    <div class="footer-col">
+        <h4>Subject PYQs</h4>
+        <ul>
+            <li><a href="cbse-class-10-maths-pyq.html">Maths</a></li>
+            <li><a href="cbse-class-10-science-pyq.html">Science</a></li>
+            <li><a href="cbse-class-10-social-science-pyq.html">Social Science</a></li>
+            <li><a href="cbse-class-10-english-pyq.html">English</a></li>
+        </ul>
+    </div>
+  </div>
   <p>&copy; 2026 <strong>Boards10</strong> &mdash; Free, Open CBSE Class 10 Previous Year Paper Archive.</p>
-  <p style="margin-top:0.5rem;">
-    <a href="index.html">Question Papers & PDF Viewer</a> &bull;
-    <a href="faq.html">CBSE FAQ & Exam Guide</a> &bull;
-    <a href="cbse-class-10-maths-pyq.html">Maths PYQs</a> &bull;
-    <a href="cbse-class-10-science-pyq.html">Science PYQs</a> &bull;
-    <a href="cbse-class-10-social-science-pyq.html">SST PYQs</a> &bull;
-    <a href="cbse-class-10-english-pyq.html">English PYQs</a> &bull;
-    <a href="blog.html">Blog & Weightage</a>
-  </p>
 </footer>
 </body>
 </html>
