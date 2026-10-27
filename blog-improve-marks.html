@@ -2,37 +2,94 @@
 <html lang="en">
 <head>
 <script defer src="https://cloud.umami.is/script.js" data-website-id="54ede624-7b9e-43db-9556-76af12594bbb"></script>
+<meta name="google-site-verification" content="YBEBrTvNDiFTqQj4zU8s5WXar4NPo7ZOGuMWQFIA6MQ" />
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>How to Improve Your Marks in CBSE Class 10 | Boards10</title>
 <meta name="description" content="Proven strategies to improve your marks in CBSE Class 10 boards: time management, answer presentation, and consistent revision.">
 <link rel="canonical" href="https://boards10.github.io/blog-improve-marks.html">
 <style>
-:root{--bg:#121212;--ink:#14213d;--muted:#4a5875;--line:#d5dce8;--accent:#2457f5;--hl:#ffe27a;--card:#fff}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121212;--ink:#e8edf7;--muted:#9fb0cf;--line:#2a3857;--accent:#bb86fc;--hl:#6b5a14;--card:#16203a}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.65 Georgia,"Times New Roman",serif;padding-top:24px;padding-bottom:64px}
-.wrap{max-width:760px;margin:0 auto;padding:0 18px}
-nav{font:15px system-ui,sans-serif;display:flex;gap:18px;flex-wrap:wrap;padding-bottom:14px;border-bottom:2px solid var(--ink)}
-nav a{color:var(--ink);text-decoration:none;font-weight:600}
-nav a:hover{color:var(--accent)}
-h1{font:800 clamp(30px,6vw,46px)/1.1 system-ui,sans-serif;margin:28px 0 10px}
-h2{font:700 25px/1.25 system-ui,sans-serif;margin:44px 0 8px;border-left:6px solid var(--accent);padding-left:12px}
-p,li{max-width:70ch}
-footer{margin-top:48px; border-top:2px solid var(--ink); padding-top:24px; text-align:center; color:var(--muted); font-size:14px;}
-footer a{color:var(--accent)}
+:root {
+  --bg-color: #121212;
+  --surface: #1e1e1e;
+  --primary: #bb86fc;
+  --text: #e0e0e0;
+  --text-muted: #a0a0a0;
+  --border: #333333;
+  --accent: #03dac6;
+}
+* { box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  margin: 0; padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text);
+  line-height: 1.65;
+}
+header {
+  background-color: var(--surface);
+  padding: 1rem 2rem;
+  border-bottom: 1px solid var(--border);
+  display: flex; justify-content: space-between; align-items: center;
+  position: sticky; top: 0; z-index: 100;
+}
+.header-brand { display: flex; align-items: center; gap: 0.75rem; text-decoration: none; color: inherit; }
+.header-brand h1 { margin: 0; font-size: 1.25rem; font-weight: 600; }
+.nav-links { display: flex; gap: 1rem; align-items: center; }
+.nav-link {
+  color: var(--text-muted); text-decoration: none; font-size: 0.9rem;
+  padding: 0.4rem 0.8rem; border-radius: 4px; transition: all 0.2s;
+}
+.nav-link:hover, .nav-link.active { color: var(--primary); background: rgba(187,134,252,0.1); }
+.btn {
+  background: var(--primary); color: #000; border: none;
+  padding: 0.5rem 1rem; border-radius: 4px; font-weight: 600;
+  cursor: pointer; text-decoration: none; font-size: 0.85rem;
+}
+.wrap { max-width: 860px; margin: 2rem auto; padding: 0 1.5rem; }
+h1.blog-title { font-size: 2.2rem; color: #fff; margin: 0 0 1rem; }
+h2 { color: var(--primary); font-size: 1.7rem; margin-top: 2.5rem; border-left: 4px solid var(--primary); padding-left: 0.75rem; }
+h3 { color: #fff; font-size: 1.3rem; margin-top: 1.5rem; }
+p, li { color: var(--text-muted); }
+strong { color: var(--text); }
+.lead { font-size: 1.1rem; color: var(--text); }
+.card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 8px; padding: 1.5rem; margin: 1.5rem 0;
+}
+footer {
+  background: var(--surface); border-top: 1px solid var(--border);
+  padding: 2.5rem 1.5rem; margin-top: 4rem; text-align: center;
+  color: var(--text-muted); font-size: 0.9rem;
+}
+footer a { color: var(--primary); text-decoration: none; }
+.footer-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem; max-width: 860px; margin: 0 auto 2rem; text-align: left;
+}
+.footer-col h4 { margin: 0 0 0.8rem 0; color: #fff; font-size: 1rem; }
+.footer-col ul { list-style: none; padding: 0; margin: 0; }
+.footer-col ul li { margin-bottom: 0.4rem; }
+.footer-col ul li a { color: var(--text-muted); text-decoration: none; }
+.footer-col ul li a:hover { color: var(--primary); }
 </style>
 </head>
 <body>
-<div class="wrap">
-<nav aria-label="Main"><a href="index.html">Boards10 home</a><a href="blog.html">Blog</a></nav>
 
 <header>
-<h1>How to Improve Your Marks in CBSE Class 10</h1>
+  <a href="index.html" class="header-brand">
+    <h1>Boards10 &mdash; CBSE Class 10 Archive</h1>
+  </a>
+  <div class="nav-links">
+    <a href="faq.html" class="nav-link">FAQ & Guide</a>
+    <a href="blog.html" class="nav-link">Blog & Weightage</a>
+    <a href="index.html" class="btn">View All Papers</a>
+  </div>
 </header>
 
-<section>
-<p>Improving marks isn't just about studying more—it's about studying smarter. Here are the key habits that top-scoring students adopt.</p>
+<div class="wrap">
+<h1 class="blog-title">How to Improve Your Marks in CBSE Class 10</h1>
+<p class="lead">Improving marks isn't just about studying more—it's about studying smarter. Here are the key habits that top-scoring students adopt.</p>
 
 <h2>1. Master the Marking Scheme</h2>
 <p>The biggest mistake is ignoring how points are allocated. Every CBSE subject has a specific marking scheme. Look at past papers to see that a 5-mark question requires 5 distinct points, not a long, rambling paragraph.</p>
@@ -45,29 +102,38 @@ footer a{color:var(--accent)}
 
 <h2>4. Presentation Matters</h2>
 <p>Use headings, sub-headings, and bullet points. In Science, always draw a diagram if the question asks for it, or even if it doesn't, if it helps clarify your answer. Label your diagrams clearly. Neat presentation makes it easier for the examiner to give you full marks.</p>
-</section>
 
-<div style="margin:40px 0; padding:20px; background:var(--card); text-align:center;">
-    <p style="font-weight:600; color:var(--ink);">Share this post:</p>
+<div class="card">
+    <p style="font-weight:600; color:#fff; margin:0 0 10px 0; text-align:center;">Share this post:</p>
     <div style="display:flex; justify-content:center; gap:20px;">
-        <a href="https://wa.me/?text=Check+out+this+tip+on+improving+Class+10+marks:+https://boards10.github.io/blog-improve-marks.html" target="_blank" style="text-decoration:none; color:var(--accent);">WhatsApp</a>
-        <a href="https://t.me/share/url?url=https://boards10.github.io/blog-improve-marks.html&text=Check+out+this+tip+on+improving+Class+10+marks!" target="_blank" style="text-decoration:none; color:var(--accent);">Telegram</a>
-        <a href="https://www.reddit.com/submit?url=https://boards10.github.io/blog-improve-marks.html&title=How+to+Improve+Your+Marks+in+CBSE+Class+10" target="_blank" style="text-decoration:none; color:var(--accent);">Reddit</a>
+        <a href="https://wa.me/?text=Check+out+this+tip+on+improving+Class+10+marks:+https://boards10.github.io/blog-improve-marks.html" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">WhatsApp</a>
+        <a href="https://t.me/share/url?url=https://boards10.github.io/blog-improve-marks.html&text=Check+out+this+tip+on+improving+Class+10+marks!" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">Telegram</a>
+        <a href="https://www.reddit.com/submit?url=https://boards10.github.io/blog-improve-marks.html&title=How+to+Improve+Your+Marks+in+CBSE+Class+10" target="_blank" style="color:var(--primary); text-decoration:none; font-weight:600;">Reddit</a>
     </div>
+</div>
 </div>
 
 <footer>
-    <div style="display:flex; justify-content:center; gap:20px; margin-bottom:14px; flex-wrap:wrap;">
-        <a href="index.html">Question Papers</a>
-        <a href="faq.html">Exam Guide</a>
-        <a href="blog.html">Blog</a>
-        <a href="cbse-class-10-maths-pyq.html">Maths</a>
-        <a href="cbse-class-10-science-pyq.html">Science</a>
-        <a href="cbse-class-10-social-science-pyq.html">SST</a>
-        <a href="cbse-class-10-english-pyq.html">English</a>
+  <div class="footer-grid">
+    <div class="footer-col">
+        <h4>Main Pages</h4>
+        <ul>
+            <li><a href="index.html">Home (PDF Viewer)</a></li>
+            <li><a href="faq.html">Exam Guide</a></li>
+            <li><a href="blog.html">Blog & Weightage</a></li>
+        </ul>
     </div>
-    <p>&copy; 2026 <strong>Boards10</strong> &mdash; Free, Open CBSE Class 10 Previous Year Paper Archive.</p>
+    <div class="footer-col">
+        <h4>Subject PYQs</h4>
+        <ul>
+            <li><a href="cbse-class-10-maths-pyq.html">Maths</a></li>
+            <li><a href="cbse-class-10-science-pyq.html">Science</a></li>
+            <li><a href="cbse-class-10-social-science-pyq.html">Social Science</a></li>
+            <li><a href="cbse-class-10-english-pyq.html">English</a></li>
+        </ul>
+    </div>
+  </div>
+  <p>&copy; 2026 <strong>Boards10</strong> &mdash; Free, Open CBSE Class 10 Previous Year Paper Archive.</p>
 </footer>
-</div>
 </body>
 </html>
