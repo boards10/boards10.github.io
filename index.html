@@ -223,7 +223,6 @@ function renderList() {
   pList.innerHTML = "";
   const papers = DATA[curSubj] || [];
   document.getElementById("list-count").textContent = papers.length + " papers";
-  document.getElementById("dl-name").textContent = SUBJ_INFO[curSubj];
   const dlBtn = document.getElementById("dl-all-btn");
   dlBtn.href = SUBJ_PAGES[curSubj] || "index.html";
   dlBtn.innerHTML = `📥 Get ${SUBJ_INFO[curSubj]} Page & ZIP`;
