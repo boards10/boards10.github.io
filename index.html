@@ -190,14 +190,6 @@ const SUBJ_INFO = {
   english: "English", math: "Mathematics", science: "Science",
   social: "Social Science", arabic: "Arabic", ait: "AI / IT"
 };
-const SUBJ_PAGES = {
-  english: "cbse-class-10-english-pyq.html",
-  math: "cbse-class-10-maths-pyq.html",
-  science: "cbse-class-10-science-pyq.html",
-  social: "cbse-class-10-social-science-pyq.html",
-  arabic: "cbse-class-10-arabic-pyq.html",
-  ait: "cbse-class-10-ait-pyq.html"
-};
 let curSubj = "english";
 
 function initTabs() {
@@ -224,9 +216,9 @@ function renderList() {
   const papers = DATA[curSubj] || [];
   document.getElementById("list-count").textContent = papers.length + " papers";
   const dlBtn = document.getElementById("dl-all-btn");
-  dlBtn.href = SUBJ_PAGES[curSubj] || "index.html";
-  dlBtn.innerHTML = `📥 Get ${SUBJ_INFO[curSubj]} Page & ZIP`;
-  dlBtn.removeAttribute("download");
+  dlBtn.href = "https://github.com/boards10/boards10.github.io/releases/download/v1.0.0/" + curSubj + ".zip";
+  dlBtn.innerHTML = `📥 Download All ${SUBJ_INFO[curSubj]} Papers (ZIP)`;
+  dlBtn.setAttribute("download", "");
   document.getElementById("viewer-title").textContent = "Select a paper to preview";
   document.getElementById("dl-one-btn").style.display = "none";
   document.getElementById("pdf-viewer").src = "about:blank";
@@ -287,8 +279,6 @@ window.onload = () => { initTabs(); renderList(); };
             <li><a href="cbse-class-10-science-pyq.html">Science</a></li>
             <li><a href="cbse-class-10-social-science-pyq.html">Social Science</a></li>
             <li><a href="cbse-class-10-english-pyq.html">English</a></li>
-            <li><a href="cbse-class-10-arabic-pyq.html">Arabic</a></li>
-            <li><a href="cbse-class-10-ait-pyq.html">AI / IT</a></li>
         </ul>
     </div>
     <div class="footer-col">
