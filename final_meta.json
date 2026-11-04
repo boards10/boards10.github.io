@@ -102,6 +102,66 @@
   },
   {
    "n": 11,
+   "file": "papers/english/1160-1_2-4-1 English (Lang. & Lit.) (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 465085
+  },
+  {
+   "n": 12,
+   "file": "papers/english/1160-2_2-4-2 English (Lang. & Lit.) (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 466090
+  },
+  {
+   "n": 13,
+   "file": "papers/english/1160-3_2-4-3 English (Lang. & Lit.) (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 465257
+  },
+  {
+   "n": 14,
+   "file": "papers/english/1161-1_2-5-1 English (Lang. & Lit.) (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 483039
+  },
+  {
+   "n": 15,
+   "file": "papers/english/1161-2_2-5-2 English (Lang. & Lit.) (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 466297
+  },
+  {
+   "n": 16,
+   "file": "papers/english/1161-3_2-5-3 English (Lang. & Lit.) (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 467101
+  },
+  {
+   "n": 17,
    "file": "papers/english/11_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -111,7 +171,7 @@
    "size": 248746
   },
   {
-   "n": 12,
+   "n": 18,
    "file": "papers/english/12_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -121,7 +181,7 @@
    "size": 242586
   },
   {
-   "n": 13,
+   "n": 19,
    "file": "papers/english/13_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -131,7 +191,7 @@
    "size": 249068
   },
   {
-   "n": 14,
+   "n": 20,
    "file": "papers/english/14_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -141,7 +201,7 @@
    "size": 2267264
   },
   {
-   "n": 15,
+   "n": 21,
    "file": "papers/english/15_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -151,7 +211,7 @@
    "size": 2851171
   },
   {
-   "n": 16,
+   "n": 22,
    "file": "papers/english/16_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -161,7 +221,7 @@
    "size": 3126075
   },
   {
-   "n": 17,
+   "n": 23,
    "file": "papers/english/17_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -171,7 +231,7 @@
    "size": 243935
   },
   {
-   "n": 18,
+   "n": 24,
    "file": "papers/english/18_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -181,7 +241,7 @@
    "size": 238133
   },
   {
-   "n": 19,
+   "n": 25,
    "file": "papers/english/19_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -191,7 +251,547 @@
    "size": 244484
   },
   {
-   "n": 20,
+   "n": 26,
+   "file": "papers/english/2-1-1 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 454880
+  },
+  {
+   "n": 27,
+   "file": "papers/english/2-1-1 English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 786614
+  },
+  {
+   "n": 28,
+   "file": "papers/english/2-1-1_English (Lang. & Lit.).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3455230
+  },
+  {
+   "n": 29,
+   "file": "papers/english/2-1-1_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 248746
+  },
+  {
+   "n": 30,
+   "file": "papers/english/2-1-2 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 554467
+  },
+  {
+   "n": 31,
+   "file": "papers/english/2-1-2 English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 779941
+  },
+  {
+   "n": 32,
+   "file": "papers/english/2-1-2_English (Lang. & Lit.).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3463816
+  },
+  {
+   "n": 33,
+   "file": "papers/english/2-1-2_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 243935
+  },
+  {
+   "n": 34,
+   "file": "papers/english/2-1-3 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 465757
+  },
+  {
+   "n": 35,
+   "file": "papers/english/2-1-3 English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 788659
+  },
+  {
+   "n": 36,
+   "file": "papers/english/2-1-3_English (Lang. & Lit.).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3488451
+  },
+  {
+   "n": 37,
+   "file": "papers/english/2-1-3_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 243226
+  },
+  {
+   "n": 38,
+   "file": "papers/english/2-2-1 (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 313928
+  },
+  {
+   "n": 39,
+   "file": "papers/english/2-2-1 (English L & L).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2137698
+  },
+  {
+   "n": 40,
+   "file": "papers/english/2-2-1 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1233242
+  },
+  {
+   "n": 41,
+   "file": "papers/english/2-2-1_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 242586
+  },
+  {
+   "n": 42,
+   "file": "papers/english/2-2-2 (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 330196
+  },
+  {
+   "n": 43,
+   "file": "papers/english/2-2-2 (English L & L).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2133806
+  },
+  {
+   "n": 44,
+   "file": "papers/english/2-2-2 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1348205
+  },
+  {
+   "n": 45,
+   "file": "papers/english/2-2-2_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 238133
+  },
+  {
+   "n": 46,
+   "file": "papers/english/2-2-3 (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 329861
+  },
+  {
+   "n": 47,
+   "file": "papers/english/2-2-3 (English L & L).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2133791
+  },
+  {
+   "n": 48,
+   "file": "papers/english/2-2-3 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1424229
+  },
+  {
+   "n": 49,
+   "file": "papers/english/2-2-3_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 238184
+  },
+  {
+   "n": 50,
+   "file": "papers/english/2-3-1 (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 330429
+  },
+  {
+   "n": 51,
+   "file": "papers/english/2-3-1 English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 807636
+  },
+  {
+   "n": 52,
+   "file": "papers/english/2-3-1_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 249068
+  },
+  {
+   "n": 53,
+   "file": "papers/english/2-3-2 (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 329708
+  },
+  {
+   "n": 54,
+   "file": "papers/english/2-3-2 English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 860965
+  },
+  {
+   "n": 55,
+   "file": "papers/english/2-3-2_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 244484
+  },
+  {
+   "n": 56,
+   "file": "papers/english/2-3-3 (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 329838
+  },
+  {
+   "n": 57,
+   "file": "papers/english/2-3-3 English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 802738
+  },
+  {
+   "n": 58,
+   "file": "papers/english/2-3-3_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 244703
+  },
+  {
+   "n": 59,
+   "file": "papers/english/2-4-1 (English L & L).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2059532
+  },
+  {
+   "n": 60,
+   "file": "papers/english/2-4-1 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2878661
+  },
+  {
+   "n": 61,
+   "file": "papers/english/2-4-1_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2267264
+  },
+  {
+   "n": 62,
+   "file": "papers/english/2-4-2 (English L & L).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2062683
+  },
+  {
+   "n": 63,
+   "file": "papers/english/2-4-2 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2869873
+  },
+  {
+   "n": 64,
+   "file": "papers/english/2-4-2_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2270831
+  },
+  {
+   "n": 65,
+   "file": "papers/english/2-4-3 (English L & L).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2054267
+  },
+  {
+   "n": 66,
+   "file": "papers/english/2-4-3 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2885408
+  },
+  {
+   "n": 67,
+   "file": "papers/english/2-4-3_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2260767
+  },
+  {
+   "n": 68,
+   "file": "papers/english/2-5-1 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 970048
+  },
+  {
+   "n": 69,
+   "file": "papers/english/2-5-1_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2851171
+  },
+  {
+   "n": 70,
+   "file": "papers/english/2-5-2 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1037283
+  },
+  {
+   "n": 71,
+   "file": "papers/english/2-5-2_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2850536
+  },
+  {
+   "n": 72,
+   "file": "papers/english/2-5-3 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1191219
+  },
+  {
+   "n": 73,
+   "file": "papers/english/2-5-3_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2833614
+  },
+  {
+   "n": 74,
+   "file": "papers/english/2-6-1 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 573581
+  },
+  {
+   "n": 75,
+   "file": "papers/english/2-6-1_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3126075
+  },
+  {
+   "n": 76,
+   "file": "papers/english/2-6-2 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 511788
+  },
+  {
+   "n": 77,
+   "file": "papers/english/2-6-2_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3108402
+  },
+  {
+   "n": 78,
+   "file": "papers/english/2-6-3 ENGLISH L_L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 481735
+  },
+  {
+   "n": 79,
+   "file": "papers/english/2-6-3_English Language and Literature.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3037347
+  },
+  {
+   "n": 80,
    "file": "papers/english/20_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -201,7 +801,7 @@
    "size": 2270831
   },
   {
-   "n": 21,
+   "n": 81,
    "file": "papers/english/21_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -211,7 +811,7 @@
    "size": 2850536
   },
   {
-   "n": 22,
+   "n": 82,
    "file": "papers/english/22_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -221,7 +821,7 @@
    "size": 3108402
   },
   {
-   "n": 23,
+   "n": 83,
    "file": "papers/english/23_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -231,7 +831,7 @@
    "size": 243226
   },
   {
-   "n": 24,
+   "n": 84,
    "file": "papers/english/24_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -241,7 +841,7 @@
    "size": 238184
   },
   {
-   "n": 25,
+   "n": 85,
    "file": "papers/english/25_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -251,7 +851,7 @@
    "size": 244703
   },
   {
-   "n": 26,
+   "n": 86,
    "file": "papers/english/26_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -261,7 +861,7 @@
    "size": 2260767
   },
   {
-   "n": 27,
+   "n": 87,
    "file": "papers/english/27_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -271,7 +871,7 @@
    "size": 2833614
   },
   {
-   "n": 28,
+   "n": 88,
    "file": "papers/english/28_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -281,7 +881,7 @@
    "size": 3037347
   },
   {
-   "n": 29,
+   "n": 89,
    "file": "papers/english/29_2025_compartment.pdf",
    "year": 2025,
    "exam": "Compartment",
@@ -291,7 +891,157 @@
    "size": 283837
   },
   {
-   "n": 30,
+   "n": 90,
+   "file": "papers/english/2_1_1_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2599024
+  },
+  {
+   "n": 91,
+   "file": "papers/english/2_1_2_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2560131
+  },
+  {
+   "n": 92,
+   "file": "papers/english/2_1_3_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2531232
+  },
+  {
+   "n": 93,
+   "file": "papers/english/2_2_1_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3304057
+  },
+  {
+   "n": 94,
+   "file": "papers/english/2_2_2_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3807099
+  },
+  {
+   "n": 95,
+   "file": "papers/english/2_2_3_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3586941
+  },
+  {
+   "n": 96,
+   "file": "papers/english/2_3_1_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2986507
+  },
+  {
+   "n": 97,
+   "file": "papers/english/2_3_2_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3193676
+  },
+  {
+   "n": 98,
+   "file": "papers/english/2_3_3_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3030545
+  },
+  {
+   "n": 99,
+   "file": "papers/english/2_4_1_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 683065
+  },
+  {
+   "n": 100,
+   "file": "papers/english/2_4_2_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 906215
+  },
+  {
+   "n": 101,
+   "file": "papers/english/2_4_3_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 678149
+  },
+  {
+   "n": 102,
+   "file": "papers/english/2_5_1_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1404575
+  },
+  {
+   "n": 103,
+   "file": "papers/english/2_5_2_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1495578
+  },
+  {
+   "n": 104,
+   "file": "papers/english/2_5_3_English L & L.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1287994
+  },
+  {
+   "n": 105,
    "file": "papers/english/30_2025_compartment.pdf",
    "year": 2025,
    "exam": "Compartment",
@@ -301,7 +1051,7 @@
    "size": 271184
   },
   {
-   "n": 31,
+   "n": 106,
    "file": "papers/english/31_2025_compartment.pdf",
    "year": 2025,
    "exam": "Compartment",
@@ -311,7 +1061,7 @@
    "size": 270199
   },
   {
-   "n": 32,
+   "n": 107,
    "file": "papers/english/32_2025_compartment.pdf",
    "year": 2025,
    "exam": "Compartment",
@@ -321,7 +1071,7 @@
    "size": 271012
   },
   {
-   "n": 33,
+   "n": 108,
    "file": "papers/english/33_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -331,7 +1081,7 @@
    "size": 2599024
   },
   {
-   "n": 34,
+   "n": 109,
    "file": "papers/english/34_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -341,7 +1091,7 @@
    "size": 3304057
   },
   {
-   "n": 35,
+   "n": 110,
    "file": "papers/english/35_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -351,7 +1101,7 @@
    "size": 2986507
   },
   {
-   "n": 36,
+   "n": 111,
    "file": "papers/english/36_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -361,7 +1111,7 @@
    "size": 683065
   },
   {
-   "n": 37,
+   "n": 112,
    "file": "papers/english/37_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -371,7 +1121,7 @@
    "size": 1404575
   },
   {
-   "n": 38,
+   "n": 113,
    "file": "papers/english/38_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -381,7 +1131,7 @@
    "size": 2560131
   },
   {
-   "n": 39,
+   "n": 114,
    "file": "papers/english/39_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -391,7 +1141,7 @@
    "size": 3807099
   },
   {
-   "n": 40,
+   "n": 115,
    "file": "papers/english/40_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -401,7 +1151,7 @@
    "size": 3193676
   },
   {
-   "n": 41,
+   "n": 116,
    "file": "papers/english/41_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -411,7 +1161,7 @@
    "size": 906215
   },
   {
-   "n": 42,
+   "n": 117,
    "file": "papers/english/42_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -421,7 +1171,7 @@
    "size": 1495578
   },
   {
-   "n": 43,
+   "n": 118,
    "file": "papers/english/43_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -431,7 +1181,7 @@
    "size": 2531232
   },
   {
-   "n": 44,
+   "n": 119,
    "file": "papers/english/44_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -441,7 +1191,7 @@
    "size": 3586941
   },
   {
-   "n": 45,
+   "n": 120,
    "file": "papers/english/45_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -451,7 +1201,7 @@
    "size": 3030545
   },
   {
-   "n": 46,
+   "n": 121,
    "file": "papers/english/46_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -461,7 +1211,7 @@
    "size": 678149
   },
   {
-   "n": 47,
+   "n": 122,
    "file": "papers/english/47_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -471,7 +1221,7 @@
    "size": 1287994
   },
   {
-   "n": 48,
+   "n": 123,
    "file": "papers/english/48_2024_main.pdf",
    "year": 2024,
    "exam": "Main",
@@ -481,7 +1231,7 @@
    "size": 1114639
   },
   {
-   "n": 49,
+   "n": 124,
    "file": "papers/english/49_2024_compartment.pdf",
    "year": 2024,
    "exam": "Compartment",
@@ -491,7 +1241,7 @@
    "size": 374328
   },
   {
-   "n": 50,
+   "n": 125,
    "file": "papers/english/50_2024_compartment.pdf",
    "year": 2024,
    "exam": "Compartment",
@@ -604,6 +1354,146 @@
   },
   {
    "n": 11,
+   "file": "papers/math/1158-1_430-4-1 Mathematics (Basic).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1317875
+  },
+  {
+   "n": 12,
+   "file": "papers/math/1158-2_430-4-2 Mathematics (Basic).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1352898
+  },
+  {
+   "n": 13,
+   "file": "papers/math/1158-3_430-4-3 Mathematics (Basic).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1318625
+  },
+  {
+   "n": 14,
+   "file": "papers/math/1159-1_430-5-1 Mathematics (Basic).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1301861
+  },
+  {
+   "n": 15,
+   "file": "papers/math/1159-2_430-5-2 Mathematics (Basic).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1346518
+  },
+  {
+   "n": 16,
+   "file": "papers/math/1159-3_430-5-3 Mathematics (Basic).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1319842
+  },
+  {
+   "n": 17,
+   "file": "papers/math/1164_30(B)_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 531401
+  },
+  {
+   "n": 18,
+   "file": "papers/math/1167_430(B)_Mathematics (Basic).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 532947
+  },
+  {
+   "n": 19,
+   "file": "papers/math/1171-1_30-4-1  (Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1609258
+  },
+  {
+   "n": 20,
+   "file": "papers/math/1171-2_30-4-2  (Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1626337
+  },
+  {
+   "n": 21,
+   "file": "papers/math/1171-3_30-4-3  (Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1629515
+  },
+  {
+   "n": 22,
+   "file": "papers/math/1172-1_30-5-1  (Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1370223
+  },
+  {
+   "n": 23,
+   "file": "papers/math/1172-2_30-5-2  (Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1367687
+  },
+  {
+   "n": 24,
+   "file": "papers/math/1172-3_30-5-3  (Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1383648
+  },
+  {
+   "n": 25,
    "file": "papers/math/11_2026_main_set2.pdf",
    "year": 2026,
    "exam": "Main",
@@ -613,7 +1503,7 @@
    "size": 2301273
   },
   {
-   "n": 12,
+   "n": 26,
    "file": "papers/math/12_2026_main_set2.pdf",
    "year": 2026,
    "exam": "Main",
@@ -623,7 +1513,7 @@
    "size": 1969999
   },
   {
-   "n": 13,
+   "n": 27,
    "file": "papers/math/13_2026_main_set3.pdf",
    "year": 2026,
    "exam": "Main",
@@ -633,7 +1523,7 @@
    "size": 2959181
   },
   {
-   "n": 14,
+   "n": 28,
    "file": "papers/math/14_2026_main_set3.pdf",
    "year": 2026,
    "exam": "Main",
@@ -643,7 +1533,7 @@
    "size": 3374344
   },
   {
-   "n": 15,
+   "n": 29,
    "file": "papers/math/15_2026_main_set3.pdf",
    "year": 2026,
    "exam": "Main",
@@ -653,7 +1543,7 @@
    "size": 3621539
   },
   {
-   "n": 16,
+   "n": 30,
    "file": "papers/math/16_2026_main_set3.pdf",
    "year": 2026,
    "exam": "Main",
@@ -663,7 +1553,7 @@
    "size": 2115653
   },
   {
-   "n": 17,
+   "n": 31,
    "file": "papers/math/17_2026_main_set3.pdf",
    "year": 2026,
    "exam": "Main",
@@ -673,7 +1563,7 @@
    "size": 2186446
   },
   {
-   "n": 18,
+   "n": 32,
    "file": "papers/math/18_2026_main_set3.pdf",
    "year": 2026,
    "exam": "Main",
@@ -683,7 +1573,7 @@
    "size": 2009221
   },
   {
-   "n": 19,
+   "n": 33,
    "file": "papers/math/19_2026_main_set30.pdf",
    "year": 2026,
    "exam": "Main",
@@ -693,7 +1583,7 @@
    "size": 531401
   },
   {
-   "n": 20,
+   "n": 34,
    "file": "papers/math/20_2026_main_set30.pdf",
    "year": 2026,
    "exam": "Main",
@@ -703,7 +1593,7 @@
    "size": 1609258
   },
   {
-   "n": 21,
+   "n": 35,
    "file": "papers/math/21_2026_main_set30.pdf",
    "year": 2026,
    "exam": "Main",
@@ -713,7 +1603,7 @@
    "size": 1626337
   },
   {
-   "n": 22,
+   "n": 36,
    "file": "papers/math/22_2026_main_set30.pdf",
    "year": 2026,
    "exam": "Main",
@@ -723,7 +1613,7 @@
    "size": 1629515
   },
   {
-   "n": 23,
+   "n": 37,
    "file": "papers/math/23_2026_main_set30.pdf",
    "year": 2026,
    "exam": "Main",
@@ -733,7 +1623,7 @@
    "size": 1370223
   },
   {
-   "n": 24,
+   "n": 38,
    "file": "papers/math/24_2026_main_set30.pdf",
    "year": 2026,
    "exam": "Main",
@@ -743,7 +1633,7 @@
    "size": 1367687
   },
   {
-   "n": 25,
+   "n": 39,
    "file": "papers/math/25_2026_main_set30.pdf",
    "year": 2026,
    "exam": "Main",
@@ -753,7 +1643,7 @@
    "size": 1383648
   },
   {
-   "n": 26,
+   "n": 40,
    "file": "papers/math/26_2026_main_set430.pdf",
    "year": 2026,
    "exam": "Main",
@@ -763,7 +1653,7 @@
    "size": 1317875
   },
   {
-   "n": 27,
+   "n": 41,
    "file": "papers/math/27_2026_main_set430.pdf",
    "year": 2026,
    "exam": "Main",
@@ -773,7 +1663,7 @@
    "size": 1352898
   },
   {
-   "n": 28,
+   "n": 42,
    "file": "papers/math/28_2026_main_set430.pdf",
    "year": 2026,
    "exam": "Main",
@@ -783,7 +1673,7 @@
    "size": 1318625
   },
   {
-   "n": 29,
+   "n": 43,
    "file": "papers/math/29_2026_main_set430.pdf",
    "year": 2026,
    "exam": "Main",
@@ -793,7 +1683,547 @@
    "size": 1301861
   },
   {
-   "n": 30,
+   "n": 44,
+   "file": "papers/math/30 B_Maths Std for Visually Impaired.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4311428
+  },
+  {
+   "n": 45,
+   "file": "papers/math/30(B) Mathematics.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 407285
+  },
+  {
+   "n": 46,
+   "file": "papers/math/30-1-1 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 813095
+  },
+  {
+   "n": 47,
+   "file": "papers/math/30-1-1(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4622684
+  },
+  {
+   "n": 48,
+   "file": "papers/math/30-1-1P-Maths (Std)_X.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2876860
+  },
+  {
+   "n": 49,
+   "file": "papers/math/30-1-1_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1953002
+  },
+  {
+   "n": 50,
+   "file": "papers/math/30-1-2 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 809048
+  },
+  {
+   "n": 51,
+   "file": "papers/math/30-1-2(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4630359
+  },
+  {
+   "n": 52,
+   "file": "papers/math/30-1-2P-Maths (Std)_X.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3037414
+  },
+  {
+   "n": 53,
+   "file": "papers/math/30-1-2_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1931468
+  },
+  {
+   "n": 54,
+   "file": "papers/math/30-1-3 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 862811
+  },
+  {
+   "n": 55,
+   "file": "papers/math/30-1-3(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4459440
+  },
+  {
+   "n": 56,
+   "file": "papers/math/30-1-3P-Maths (Std)_X.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2959181
+  },
+  {
+   "n": 57,
+   "file": "papers/math/30-1-3_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1848235
+  },
+  {
+   "n": 58,
+   "file": "papers/math/30-2-1 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1452987
+  },
+  {
+   "n": 59,
+   "file": "papers/math/30-2-1(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3045656
+  },
+  {
+   "n": 60,
+   "file": "papers/math/30-2-1_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2050912
+  },
+  {
+   "n": 61,
+   "file": "papers/math/30-2-2 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1447584
+  },
+  {
+   "n": 62,
+   "file": "papers/math/30-2-2(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2815845
+  },
+  {
+   "n": 63,
+   "file": "papers/math/30-2-2_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2098074
+  },
+  {
+   "n": 64,
+   "file": "papers/math/30-2-3 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1391829
+  },
+  {
+   "n": 65,
+   "file": "papers/math/30-2-3(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3159556
+  },
+  {
+   "n": 66,
+   "file": "papers/math/30-2-3_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2062251
+  },
+  {
+   "n": 67,
+   "file": "papers/math/30-3-1 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1051082
+  },
+  {
+   "n": 68,
+   "file": "papers/math/30-3-1(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3150117
+  },
+  {
+   "n": 69,
+   "file": "papers/math/30-3-1_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1936142
+  },
+  {
+   "n": 70,
+   "file": "papers/math/30-3-2 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1078005
+  },
+  {
+   "n": 71,
+   "file": "papers/math/30-3-2(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3192623
+  },
+  {
+   "n": 72,
+   "file": "papers/math/30-3-2_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1986232
+  },
+  {
+   "n": 73,
+   "file": "papers/math/30-3-3 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1118899
+  },
+  {
+   "n": 74,
+   "file": "papers/math/30-3-3(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3131794
+  },
+  {
+   "n": 75,
+   "file": "papers/math/30-3-3_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1992198
+  },
+  {
+   "n": 76,
+   "file": "papers/math/30-4-1 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1739609
+  },
+  {
+   "n": 77,
+   "file": "papers/math/30-4-1(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 620114
+  },
+  {
+   "n": 78,
+   "file": "papers/math/30-4-1_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3390704
+  },
+  {
+   "n": 79,
+   "file": "papers/math/30-4-2 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1702695
+  },
+  {
+   "n": 80,
+   "file": "papers/math/30-4-2(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 637041
+  },
+  {
+   "n": 81,
+   "file": "papers/math/30-4-2_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3533004
+  },
+  {
+   "n": 82,
+   "file": "papers/math/30-4-3 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1686317
+  },
+  {
+   "n": 83,
+   "file": "papers/math/30-4-3(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 627305
+  },
+  {
+   "n": 84,
+   "file": "papers/math/30-4-3_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3389066
+  },
+  {
+   "n": 85,
+   "file": "papers/math/30-5-1(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 498173
+  },
+  {
+   "n": 86,
+   "file": "papers/math/30-5-1_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5102159
+  },
+  {
+   "n": 87,
+   "file": "papers/math/30-5-2(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 501004
+  },
+  {
+   "n": 88,
+   "file": "papers/math/30-5-2_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5113166
+  },
+  {
+   "n": 89,
+   "file": "papers/math/30-5-3(Mathematics Standard).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 521871
+  },
+  {
+   "n": 90,
+   "file": "papers/math/30-5-3_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5130722
+  },
+  {
+   "n": 91,
+   "file": "papers/math/30-6-1_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4723749
+  },
+  {
+   "n": 92,
+   "file": "papers/math/30-6-2_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4750627
+  },
+  {
+   "n": 93,
+   "file": "papers/math/30-6-3_Mathematics Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4915533
+  },
+  {
+   "n": 94,
+   "file": "papers/math/30-B-5 Maths Std. for VI candidates.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 871638
+  },
+  {
+   "n": 95,
+   "file": "papers/math/30_1_1_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4112218
+  },
+  {
+   "n": 96,
+   "file": "papers/math/30_1_2_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4399418
+  },
+  {
+   "n": 97,
+   "file": "papers/math/30_1_3_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4277420
+  },
+  {
+   "n": 98,
    "file": "papers/math/30_2026_main_set430.pdf",
    "year": 2026,
    "exam": "Main",
@@ -803,7 +2233,207 @@
    "size": 1346518
   },
   {
-   "n": 31,
+   "n": 99,
+   "file": "papers/math/30_2_1_Mathematics Std._cl.10.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3346328
+  },
+  {
+   "n": 100,
+   "file": "papers/math/30_2_1_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1796385
+  },
+  {
+   "n": 101,
+   "file": "papers/math/30_2_2_Mathematics Std._cl.10.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3500427
+  },
+  {
+   "n": 102,
+   "file": "papers/math/30_2_2_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1890740
+  },
+  {
+   "n": 103,
+   "file": "papers/math/30_2_3_Mathematics Std._cl.10.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3374344
+  },
+  {
+   "n": 104,
+   "file": "papers/math/30_2_3_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1770399
+  },
+  {
+   "n": 105,
+   "file": "papers/math/30_3_1_Mathematics Std._cl.10.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3618767
+  },
+  {
+   "n": 106,
+   "file": "papers/math/30_3_2_Mathematics Std._cl.10.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3600915
+  },
+  {
+   "n": 107,
+   "file": "papers/math/30_3_3_Mathematics Std._cl.10.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3621539
+  },
+  {
+   "n": 108,
+   "file": "papers/math/30_4_1 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 481209
+  },
+  {
+   "n": 109,
+   "file": "papers/math/30_4_2 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 480691
+  },
+  {
+   "n": 110,
+   "file": "papers/math/30_4_3 Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 526047
+  },
+  {
+   "n": 111,
+   "file": "papers/math/30_5_1_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1765415
+  },
+  {
+   "n": 112,
+   "file": "papers/math/30_5_2_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1795100
+  },
+  {
+   "n": 113,
+   "file": "papers/math/30_5_3_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1769310
+  },
+  {
+   "n": 114,
+   "file": "papers/math/30_6_1_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4224382
+  },
+  {
+   "n": 115,
+   "file": "papers/math/30_6_2_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4323294
+  },
+  {
+   "n": 116,
+   "file": "papers/math/30_6_3_Maths Standard.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4168836
+  },
+  {
+   "n": 117,
+   "file": "papers/math/30_B_5_Maths Std. for VI candidates.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1574764
+  },
+  {
+   "n": 118,
+   "file": "papers/math/30_B_Maths Std. for VI candidates Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1075709
+  },
+  {
+   "n": 119,
    "file": "papers/math/31_2026_main_set430.pdf",
    "year": 2026,
    "exam": "Main",
@@ -813,7 +2443,7 @@
    "size": 1319842
   },
   {
-   "n": 32,
+   "n": 120,
    "file": "papers/math/32_2026_main_set430.pdf",
    "year": 2026,
    "exam": "Main",
@@ -823,7 +2453,7 @@
    "size": 532947
   },
   {
-   "n": 33,
+   "n": 121,
    "file": "papers/math/33_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -833,7 +2463,7 @@
    "size": 1953002
   },
   {
-   "n": 34,
+   "n": 122,
    "file": "papers/math/34_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -843,7 +2473,7 @@
    "size": 2050912
   },
   {
-   "n": 35,
+   "n": 123,
    "file": "papers/math/35_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -853,7 +2483,7 @@
    "size": 1936142
   },
   {
-   "n": 36,
+   "n": 124,
    "file": "papers/math/36_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -863,7 +2493,7 @@
    "size": 3390704
   },
   {
-   "n": 37,
+   "n": 125,
    "file": "papers/math/37_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -873,7 +2503,7 @@
    "size": 5102159
   },
   {
-   "n": 38,
+   "n": 126,
    "file": "papers/math/38_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -883,7 +2513,7 @@
    "size": 4723749
   },
   {
-   "n": 39,
+   "n": 127,
    "file": "papers/math/39_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -893,7 +2523,27 @@
    "size": 2846318
   },
   {
-   "n": 40,
+   "n": 128,
+   "file": "papers/math/40-3-1 Maths Std Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 901928
+  },
+  {
+   "n": 129,
+   "file": "papers/math/40-B-5 Maths Standard Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 483432
+  },
+  {
+   "n": 130,
    "file": "papers/math/40_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -903,7 +2553,37 @@
    "size": 4351706
   },
   {
-   "n": 41,
+   "n": 131,
+   "file": "papers/math/40_2_1_Maths Standard Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1230253
+  },
+  {
+   "n": 132,
+   "file": "papers/math/40_2_2_Maths Standard Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1283555
+  },
+  {
+   "n": 133,
+   "file": "papers/math/40_2_3_Maths Standard Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1248635
+  },
+  {
+   "n": 134,
    "file": "papers/math/41_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -913,7 +2593,7 @@
    "size": 4377722
   },
   {
-   "n": 42,
+   "n": 135,
    "file": "papers/math/42_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -923,7 +2603,647 @@
    "size": 1931468
   },
   {
-   "n": 43,
+   "n": 136,
+   "file": "papers/math/430 B_Maths Basic for Visually Impaired candiddates.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4076619
+  },
+  {
+   "n": 137,
+   "file": "papers/math/430(B) Maths Basic for VI.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 409076
+  },
+  {
+   "n": 138,
+   "file": "papers/math/430-1-1 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 923977
+  },
+  {
+   "n": 139,
+   "file": "papers/math/430-1-1MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4932901
+  },
+  {
+   "n": 140,
+   "file": "papers/math/430-1-1_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2189547
+  },
+  {
+   "n": 141,
+   "file": "papers/math/430-1-2 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 936754
+  },
+  {
+   "n": 142,
+   "file": "papers/math/430-1-2MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4573974
+  },
+  {
+   "n": 143,
+   "file": "papers/math/430-1-2_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2101524
+  },
+  {
+   "n": 144,
+   "file": "papers/math/430-1-3 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 964075
+  },
+  {
+   "n": 145,
+   "file": "papers/math/430-1-3MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4932903
+  },
+  {
+   "n": 146,
+   "file": "papers/math/430-1-3_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2115653
+  },
+  {
+   "n": 147,
+   "file": "papers/math/430-2-1 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1271814
+  },
+  {
+   "n": 148,
+   "file": "papers/math/430-2-1MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 6334973
+  },
+  {
+   "n": 149,
+   "file": "papers/math/430-2-1_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2238939
+  },
+  {
+   "n": 150,
+   "file": "papers/math/430-2-2 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1273498
+  },
+  {
+   "n": 151,
+   "file": "papers/math/430-2-2MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 8750990
+  },
+  {
+   "n": 152,
+   "file": "papers/math/430-2-2_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2301273
+  },
+  {
+   "n": 153,
+   "file": "papers/math/430-2-3 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1304868
+  },
+  {
+   "n": 154,
+   "file": "papers/math/430-2-3MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5528388
+  },
+  {
+   "n": 155,
+   "file": "papers/math/430-2-3_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2186446
+  },
+  {
+   "n": 156,
+   "file": "papers/math/430-3-1 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1327734
+  },
+  {
+   "n": 157,
+   "file": "papers/math/430-3-1MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1472685
+  },
+  {
+   "n": 158,
+   "file": "papers/math/430-3-1_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2087053
+  },
+  {
+   "n": 159,
+   "file": "papers/math/430-3-2 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1306860
+  },
+  {
+   "n": 160,
+   "file": "papers/math/430-3-2MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2428226
+  },
+  {
+   "n": 161,
+   "file": "papers/math/430-3-2_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1969999
+  },
+  {
+   "n": 162,
+   "file": "papers/math/430-3-3 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1270110
+  },
+  {
+   "n": 163,
+   "file": "papers/math/430-3-3MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1482981
+  },
+  {
+   "n": 164,
+   "file": "papers/math/430-3-3_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2009221
+  },
+  {
+   "n": 165,
+   "file": "papers/math/430-4-1 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1401228
+  },
+  {
+   "n": 166,
+   "file": "papers/math/430-4-1MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 582749
+  },
+  {
+   "n": 167,
+   "file": "papers/math/430-4-1_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2846318
+  },
+  {
+   "n": 168,
+   "file": "papers/math/430-4-2 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1418352
+  },
+  {
+   "n": 169,
+   "file": "papers/math/430-4-2MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 556346
+  },
+  {
+   "n": 170,
+   "file": "papers/math/430-4-2_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2844297
+  },
+  {
+   "n": 171,
+   "file": "papers/math/430-4-3 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1373109
+  },
+  {
+   "n": 172,
+   "file": "papers/math/430-4-3MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 577483
+  },
+  {
+   "n": 173,
+   "file": "papers/math/430-4-3_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2847235
+  },
+  {
+   "n": 174,
+   "file": "papers/math/430-5-1MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 549696
+  },
+  {
+   "n": 175,
+   "file": "papers/math/430-5-1_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4351706
+  },
+  {
+   "n": 176,
+   "file": "papers/math/430-5-2MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 546395
+  },
+  {
+   "n": 177,
+   "file": "papers/math/430-5-2_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4412776
+  },
+  {
+   "n": 178,
+   "file": "papers/math/430-5-3MATHEMATICS (BASIC).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 548118
+  },
+  {
+   "n": 179,
+   "file": "papers/math/430-5-3_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4353424
+  },
+  {
+   "n": 180,
+   "file": "papers/math/430-6-1_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4377722
+  },
+  {
+   "n": 181,
+   "file": "papers/math/430-6-2_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4379372
+  },
+  {
+   "n": 182,
+   "file": "papers/math/430-6-3_Mathematics Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4331448
+  },
+  {
+   "n": 183,
+   "file": "papers/math/430-B-5 Maths Basic for VI candidates.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 829867
+  },
+  {
+   "n": 184,
+   "file": "papers/math/430_1_1_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4962450
+  },
+  {
+   "n": 185,
+   "file": "papers/math/430_1_2_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4818972
+  },
+  {
+   "n": 186,
+   "file": "papers/math/430_1_3_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4876609
+  },
+  {
+   "n": 187,
+   "file": "papers/math/430_2_1_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1930219
+  },
+  {
+   "n": 188,
+   "file": "papers/math/430_2_2_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1954811
+  },
+  {
+   "n": 189,
+   "file": "papers/math/430_2_3_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1925278
+  },
+  {
+   "n": 190,
+   "file": "papers/math/430_4_1 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 774086
+  },
+  {
+   "n": 191,
+   "file": "papers/math/430_4_2 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 841326
+  },
+  {
+   "n": 192,
+   "file": "papers/math/430_4_3 Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 721639
+  },
+  {
+   "n": 193,
+   "file": "papers/math/430_5_1_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1780485
+  },
+  {
+   "n": 194,
+   "file": "papers/math/430_5_2_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1782870
+  },
+  {
+   "n": 195,
+   "file": "papers/math/430_5_3_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1828741
+  },
+  {
+   "n": 196,
+   "file": "papers/math/430_6_1_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4493890
+  },
+  {
+   "n": 197,
+   "file": "papers/math/430_6_2_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4351050
+  },
+  {
+   "n": 198,
+   "file": "papers/math/430_6_3_Maths Basic.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4279235
+  },
+  {
+   "n": 199,
+   "file": "papers/math/430_B_Maths Basic for VI candidates.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1447841
+  },
+  {
+   "n": 200,
    "file": "papers/math/43_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -933,7 +3253,117 @@
    "size": 2098074
   },
   {
-   "n": 44,
+   "n": 201,
+   "file": "papers/math/440_2_1_Maths Basic Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1417175
+  },
+  {
+   "n": 202,
+   "file": "papers/math/440_2_2_Maths Basic Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1416963
+  },
+  {
+   "n": 203,
+   "file": "papers/math/440_2_3_Maths Basic Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1414585
+  },
+  {
+   "n": 204,
+   "file": "papers/math/440_B_Maths Basic for VI candidates.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 992044
+  },
+  {
+   "n": 205,
+   "file": "papers/math/446-2-1 Mathematics Basic Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 951479
+  },
+  {
+   "n": 206,
+   "file": "papers/math/446-2-2 Mathematics Basic Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 947943
+  },
+  {
+   "n": 207,
+   "file": "papers/math/446-2-3 Mathematics Basic Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 952947
+  },
+  {
+   "n": 208,
+   "file": "papers/math/446_4_1 Maths Basic Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2456772
+  },
+  {
+   "n": 209,
+   "file": "papers/math/446_4_2 Maths Basic Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2467352
+  },
+  {
+   "n": 210,
+   "file": "papers/math/446_4_3 Maths Basic Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2472958
+  },
+  {
+   "n": 211,
+   "file": "papers/math/446_B_Maths Basic for VI candidates Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2552045
+  },
+  {
+   "n": 212,
    "file": "papers/math/44_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -943,7 +3373,7 @@
    "size": 1986232
   },
   {
-   "n": 45,
+   "n": 213,
    "file": "papers/math/45_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -953,7 +3383,37 @@
    "size": 3533004
   },
   {
-   "n": 46,
+   "n": 214,
+   "file": "papers/math/46-2-1 Mathematics Std. Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 994464
+  },
+  {
+   "n": 215,
+   "file": "papers/math/46-2-2 Mathematics Std. Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 992722
+  },
+  {
+   "n": 216,
+   "file": "papers/math/46-2-3 Mathematics Std. Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 984487
+  },
+  {
+   "n": 217,
    "file": "papers/math/46_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -963,7 +3423,47 @@
    "size": 5113166
   },
   {
-   "n": 47,
+   "n": 218,
+   "file": "papers/math/46_4_1 Maths Std. Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1615909
+  },
+  {
+   "n": 219,
+   "file": "papers/math/46_4_2 Maths Std. Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1634781
+  },
+  {
+   "n": 220,
+   "file": "papers/math/46_4_3 Maths Std. Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2103725
+  },
+  {
+   "n": 221,
+   "file": "papers/math/46_B_Maths Std. for VI candidates Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2485491
+  },
+  {
+   "n": 222,
    "file": "papers/math/47_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -973,7 +3473,7 @@
    "size": 4750627
   },
   {
-   "n": 48,
+   "n": 223,
    "file": "papers/math/48_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -983,7 +3483,7 @@
    "size": 2844297
   },
   {
-   "n": 49,
+   "n": 224,
    "file": "papers/math/49_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -993,7 +3493,7 @@
    "size": 4412776
   },
   {
-   "n": 50,
+   "n": 225,
    "file": "papers/math/50_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1106,6 +3606,66 @@
   },
   {
    "n": 11,
+   "file": "papers/science/1190-1_31-4-1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1824431
+  },
+  {
+   "n": 12,
+   "file": "papers/science/1190-2_31-4-2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1802323
+  },
+  {
+   "n": 13,
+   "file": "papers/science/1190-3_31-4-3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1726815
+  },
+  {
+   "n": 14,
+   "file": "papers/science/1191-1_31-5-1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1359917
+  },
+  {
+   "n": 15,
+   "file": "papers/science/1191-2_31-5-2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1888193
+  },
+  {
+   "n": 16,
+   "file": "papers/science/1191-3_31-5-3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1917402
+  },
+  {
+   "n": 17,
    "file": "papers/science/11_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1115,7 +3675,7 @@
    "size": 769004
   },
   {
-   "n": 12,
+   "n": 18,
    "file": "papers/science/12_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1125,7 +3685,7 @@
    "size": 962739
   },
   {
-   "n": 13,
+   "n": 19,
    "file": "papers/science/13_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1135,7 +3695,7 @@
    "size": 932372
   },
   {
-   "n": 14,
+   "n": 20,
    "file": "papers/science/14_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1145,7 +3705,7 @@
    "size": 3515035
   },
   {
-   "n": 15,
+   "n": 21,
    "file": "papers/science/15_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1155,7 +3715,7 @@
    "size": 3951522
   },
   {
-   "n": 16,
+   "n": 22,
    "file": "papers/science/16_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1165,7 +3725,7 @@
    "size": 3941396
   },
   {
-   "n": 17,
+   "n": 23,
    "file": "papers/science/17_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1175,7 +3735,7 @@
    "size": 749006
   },
   {
-   "n": 18,
+   "n": 24,
    "file": "papers/science/18_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1185,7 +3745,7 @@
    "size": 1001639
   },
   {
-   "n": 19,
+   "n": 25,
    "file": "papers/science/19_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1195,7 +3755,7 @@
    "size": 897473
   },
   {
-   "n": 20,
+   "n": 26,
    "file": "papers/science/20_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1205,7 +3765,7 @@
    "size": 3814602
   },
   {
-   "n": 21,
+   "n": 27,
    "file": "papers/science/21_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1215,7 +3775,7 @@
    "size": 4010033
   },
   {
-   "n": 22,
+   "n": 28,
    "file": "papers/science/22_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1225,7 +3785,7 @@
    "size": 3948030
   },
   {
-   "n": 23,
+   "n": 29,
    "file": "papers/science/23_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1235,7 +3795,7 @@
    "size": 743703
   },
   {
-   "n": 24,
+   "n": 30,
    "file": "papers/science/24_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1245,7 +3805,7 @@
    "size": 851719
   },
   {
-   "n": 25,
+   "n": 31,
    "file": "papers/science/25_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1255,7 +3815,7 @@
    "size": 953346
   },
   {
-   "n": 26,
+   "n": 32,
    "file": "papers/science/26_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1265,7 +3825,7 @@
    "size": 3751076
   },
   {
-   "n": 27,
+   "n": 33,
    "file": "papers/science/27_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1275,7 +3835,7 @@
    "size": 4106841
   },
   {
-   "n": 28,
+   "n": 34,
    "file": "papers/science/28_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1285,7 +3845,7 @@
    "size": 3579802
   },
   {
-   "n": 29,
+   "n": 35,
    "file": "papers/science/29_2025_main.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1295,7 +3855,7 @@
    "size": 3423201
   },
   {
-   "n": 30,
+   "n": 36,
    "file": "papers/science/30_2025_compartment.pdf",
    "year": 2025,
    "exam": "Compartment",
@@ -1305,7 +3865,427 @@
    "size": 591173
   },
   {
-   "n": 31,
+   "n": 37,
+   "file": "papers/science/31 (B)_Science for Visually Impaired Candidates.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3423201
+  },
+  {
+   "n": 38,
+   "file": "papers/science/31(B)-Science for V.I..pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 755754
+  },
+  {
+   "n": 39,
+   "file": "papers/science/31-1-1 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 673517
+  },
+  {
+   "n": 40,
+   "file": "papers/science/31-1-1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 769004
+  },
+  {
+   "n": 41,
+   "file": "papers/science/31-1-2 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 638626
+  },
+  {
+   "n": 42,
+   "file": "papers/science/31-1-2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 749006
+  },
+  {
+   "n": 43,
+   "file": "papers/science/31-1-3 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 612693
+  },
+  {
+   "n": 44,
+   "file": "papers/science/31-1-3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 743703
+  },
+  {
+   "n": 45,
+   "file": "papers/science/31-2-1 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2148388
+  },
+  {
+   "n": 46,
+   "file": "papers/science/31-2-1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1070101
+  },
+  {
+   "n": 47,
+   "file": "papers/science/31-2-1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 962739
+  },
+  {
+   "n": 48,
+   "file": "papers/science/31-2-2 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2405436
+  },
+  {
+   "n": 49,
+   "file": "papers/science/31-2-2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1056493
+  },
+  {
+   "n": 50,
+   "file": "papers/science/31-2-2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1001639
+  },
+  {
+   "n": 51,
+   "file": "papers/science/31-2-3 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2179353
+  },
+  {
+   "n": 52,
+   "file": "papers/science/31-2-3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 903287
+  },
+  {
+   "n": 53,
+   "file": "papers/science/31-2-3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 851719
+  },
+  {
+   "n": 54,
+   "file": "papers/science/31-3-1 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 859873
+  },
+  {
+   "n": 55,
+   "file": "papers/science/31-3-1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1140838
+  },
+  {
+   "n": 56,
+   "file": "papers/science/31-3-1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 932372
+  },
+  {
+   "n": 57,
+   "file": "papers/science/31-3-2 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 866877
+  },
+  {
+   "n": 58,
+   "file": "papers/science/31-3-2.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1151428
+  },
+  {
+   "n": 59,
+   "file": "papers/science/31-3-2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 897473
+  },
+  {
+   "n": 60,
+   "file": "papers/science/31-3-3 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 880958
+  },
+  {
+   "n": 61,
+   "file": "papers/science/31-3-3.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1079203
+  },
+  {
+   "n": 62,
+   "file": "papers/science/31-3-3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 953346
+  },
+  {
+   "n": 63,
+   "file": "papers/science/31-4-1 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2358242
+  },
+  {
+   "n": 64,
+   "file": "papers/science/31-4-1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3515035
+  },
+  {
+   "n": 65,
+   "file": "papers/science/31-4-2 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2543120
+  },
+  {
+   "n": 66,
+   "file": "papers/science/31-4-2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3814602
+  },
+  {
+   "n": 67,
+   "file": "papers/science/31-4-3 Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2568679
+  },
+  {
+   "n": 68,
+   "file": "papers/science/31-4-3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3751076
+  },
+  {
+   "n": 69,
+   "file": "papers/science/31-5-1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3951522
+  },
+  {
+   "n": 70,
+   "file": "papers/science/31-5-2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4010033
+  },
+  {
+   "n": 71,
+   "file": "papers/science/31-5-3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4106841
+  },
+  {
+   "n": 72,
+   "file": "papers/science/31-6-1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3941396
+  },
+  {
+   "n": 73,
+   "file": "papers/science/31-6-2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3948030
+  },
+  {
+   "n": 74,
+   "file": "papers/science/31-6-3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3579802
+  },
+  {
+   "n": 75,
+   "file": "papers/science/31-B-5 Science for VI candidates.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 893259
+  },
+  {
+   "n": 76,
+   "file": "papers/science/31_1_1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3470362
+  },
+  {
+   "n": 77,
+   "file": "papers/science/31_1_2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3420216
+  },
+  {
+   "n": 78,
+   "file": "papers/science/31_1_3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 6864107
+  },
+  {
+   "n": 79,
    "file": "papers/science/31_2025_compartment.pdf",
    "year": 2025,
    "exam": "Compartment",
@@ -1315,7 +4295,187 @@
    "size": 628829
   },
   {
-   "n": 32,
+   "n": 80,
+   "file": "papers/science/31_2_1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4162739
+  },
+  {
+   "n": 81,
+   "file": "papers/science/31_2_2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1478727
+  },
+  {
+   "n": 82,
+   "file": "papers/science/31_2_3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4287239
+  },
+  {
+   "n": 83,
+   "file": "papers/science/31_3_1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3888160
+  },
+  {
+   "n": 84,
+   "file": "papers/science/31_3_2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3795643
+  },
+  {
+   "n": 85,
+   "file": "papers/science/31_3_3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3979038
+  },
+  {
+   "n": 86,
+   "file": "papers/science/31_4_1_ Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 734209
+  },
+  {
+   "n": 87,
+   "file": "papers/science/31_4_1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1745034
+  },
+  {
+   "n": 88,
+   "file": "papers/science/31_4_2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1572486
+  },
+  {
+   "n": 89,
+   "file": "papers/science/31_4_3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1166964
+  },
+  {
+   "n": 90,
+   "file": "papers/science/31_5_1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1430597
+  },
+  {
+   "n": 91,
+   "file": "papers/science/31_5_2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1314401
+  },
+  {
+   "n": 92,
+   "file": "papers/science/31_5_3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1422445
+  },
+  {
+   "n": 93,
+   "file": "papers/science/31_6_1_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5970059
+  },
+  {
+   "n": 94,
+   "file": "papers/science/31_6_2_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5131389
+  },
+  {
+   "n": 95,
+   "file": "papers/science/31_6_3_Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5613818
+  },
+  {
+   "n": 96,
+   "file": "papers/science/31_B_5_Science for VI.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1621937
+  },
+  {
+   "n": 97,
+   "file": "papers/science/31_B_Science_VI.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 839663
+  },
+  {
+   "n": 98,
    "file": "papers/science/32_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1325,7 +4485,7 @@
    "size": 3470362
   },
   {
-   "n": 33,
+   "n": 99,
    "file": "papers/science/33_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1335,7 +4495,7 @@
    "size": 4162739
   },
   {
-   "n": 34,
+   "n": 100,
    "file": "papers/science/34_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1345,7 +4505,7 @@
    "size": 3888160
   },
   {
-   "n": 35,
+   "n": 101,
    "file": "papers/science/35_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1355,7 +4515,7 @@
    "size": 1745034
   },
   {
-   "n": 36,
+   "n": 102,
    "file": "papers/science/36_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1365,7 +4525,7 @@
    "size": 1667210
   },
   {
-   "n": 37,
+   "n": 103,
    "file": "papers/science/37_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1375,7 +4535,7 @@
    "size": 3420216
   },
   {
-   "n": 38,
+   "n": 104,
    "file": "papers/science/38_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1385,7 +4545,7 @@
    "size": 4235760
   },
   {
-   "n": 39,
+   "n": 105,
    "file": "papers/science/39_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1395,7 +4555,7 @@
    "size": 3795643
   },
   {
-   "n": 40,
+   "n": 106,
    "file": "papers/science/40_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1405,7 +4565,47 @@
    "size": 1572486
   },
   {
-   "n": 41,
+   "n": 107,
+   "file": "papers/science/41-3-1 Science Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 655971
+  },
+  {
+   "n": 108,
+   "file": "papers/science/41-3-2 Science Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 660573
+  },
+  {
+   "n": 109,
+   "file": "papers/science/41-3-3 Science Punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 786847
+  },
+  {
+   "n": 110,
+   "file": "papers/science/41-B-5 Science for VI candidates punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 550285
+  },
+  {
+   "n": 111,
    "file": "papers/science/41_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1415,7 +4615,47 @@
    "size": 1644803
   },
   {
-   "n": 42,
+   "n": 112,
+   "file": "papers/science/41_2_1_Science punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1378586
+  },
+  {
+   "n": 113,
+   "file": "papers/science/41_2_2_Science punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1346401
+  },
+  {
+   "n": 114,
+   "file": "papers/science/41_2_3_Science punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1326524
+  },
+  {
+   "n": 115,
+   "file": "papers/science/41_B_5_Science for VI punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1241153
+  },
+  {
+   "n": 116,
    "file": "papers/science/42_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1425,7 +4665,7 @@
    "size": 3438960
   },
   {
-   "n": 43,
+   "n": 117,
    "file": "papers/science/43_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1435,7 +4675,7 @@
    "size": 4287239
   },
   {
-   "n": 44,
+   "n": 118,
    "file": "papers/science/44_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1445,7 +4685,7 @@
    "size": 3979038
   },
   {
-   "n": 45,
+   "n": 119,
    "file": "papers/science/45_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1455,7 +4695,7 @@
    "size": 1166964
   },
   {
-   "n": 46,
+   "n": 120,
    "file": "papers/science/46_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1465,7 +4705,67 @@
    "size": 1422445
   },
   {
-   "n": 47,
+   "n": 121,
+   "file": "papers/science/47-2-2 Science Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3660316
+  },
+  {
+   "n": 122,
+   "file": "papers/science/47-2-2 Science Urdu version.pdf 1.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3726967
+  },
+  {
+   "n": 123,
+   "file": "papers/science/47-2-3 Science Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3639625
+  },
+  {
+   "n": 124,
+   "file": "papers/science/47-4-1 Science Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1347953
+  },
+  {
+   "n": 125,
+   "file": "papers/science/47-4-2 Science Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1279125
+  },
+  {
+   "n": 126,
+   "file": "papers/science/47-4-3 Science Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1229310
+  },
+  {
+   "n": 127,
    "file": "papers/science/47_2024_main.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1475,17 +4775,27 @@
    "size": 839663
   },
   {
-   "n": 48,
+   "n": 128,
+   "file": "papers/science/47_B_5_Science for VI Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 3320964
+  },
+  {
+   "n": 129,
    "file": "papers/science/48_2024_main.pdf",
    "year": 2024,
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 3945271
   },
   {
-   "n": 49,
+   "n": 130,
    "file": "papers/science/49_2024_compartment.pdf",
    "year": 2024,
    "exam": "Compartment",
@@ -1495,7 +4805,7 @@
    "size": 703951
   },
   {
-   "n": 50,
+   "n": 131,
    "file": "papers/science/50_2024_compartment.pdf",
    "year": 2024,
    "exam": "Compartment",
@@ -1608,6 +4918,66 @@
   },
   {
    "n": 11,
+   "file": "papers/social/1165-1_32-4-1_Social Sc..pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1838904
+  },
+  {
+   "n": 12,
+   "file": "papers/social/1165-2_32-4-2_Social Sc..pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1838193
+  },
+  {
+   "n": 13,
+   "file": "papers/social/1165-3_32-4-3_Social Sc..pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1839495
+  },
+  {
+   "n": 14,
+   "file": "papers/social/1183-1_32-5-1_Social Sc..pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1710408
+  },
+  {
+   "n": 15,
+   "file": "papers/social/1183-2_32-5-2_Social Sc..pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1709139
+  },
+  {
+   "n": 16,
+   "file": "papers/social/1183-3_32-5-3_Social Sc..pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1710030
+  },
+  {
+   "n": 17,
    "file": "papers/social/11_2026_main_set32.pdf",
    "year": 2026,
    "exam": "Main",
@@ -1617,7 +4987,7 @@
    "size": 1838193
   },
   {
-   "n": 12,
+   "n": 18,
    "file": "papers/social/12_2026_main_set32.pdf",
    "year": 2026,
    "exam": "Main",
@@ -1627,7 +4997,7 @@
    "size": 1839495
   },
   {
-   "n": 13,
+   "n": 19,
    "file": "papers/social/13_2026_main_set32.pdf",
    "year": 2026,
    "exam": "Main",
@@ -1637,7 +5007,7 @@
    "size": 1710408
   },
   {
-   "n": 14,
+   "n": 20,
    "file": "papers/social/14_2026_main_set32.pdf",
    "year": 2026,
    "exam": "Main",
@@ -1647,7 +5017,7 @@
    "size": 1709139
   },
   {
-   "n": 15,
+   "n": 21,
    "file": "papers/social/15_2026_main_set32.pdf",
    "year": 2026,
    "exam": "Main",
@@ -1657,7 +5027,7 @@
    "size": 1710030
   },
   {
-   "n": 16,
+   "n": 22,
    "file": "papers/social/16_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1667,7 +5037,7 @@
    "size": 2234795
   },
   {
-   "n": 17,
+   "n": 23,
    "file": "papers/social/17_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1677,7 +5047,7 @@
    "size": 2480782
   },
   {
-   "n": 18,
+   "n": 24,
    "file": "papers/social/18_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1687,7 +5057,7 @@
    "size": 1844567
   },
   {
-   "n": 19,
+   "n": 25,
    "file": "papers/social/19_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1697,7 +5067,7 @@
    "size": 4309360
   },
   {
-   "n": 20,
+   "n": 26,
    "file": "papers/social/20_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1707,7 +5077,7 @@
    "size": 4833222
   },
   {
-   "n": 21,
+   "n": 27,
    "file": "papers/social/21_2025_main_set1.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1717,7 +5087,7 @@
    "size": 4151066
   },
   {
-   "n": 22,
+   "n": 28,
    "file": "papers/social/22_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1727,7 +5097,7 @@
    "size": 2195666
   },
   {
-   "n": 23,
+   "n": 29,
    "file": "papers/social/23_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1737,7 +5107,7 @@
    "size": 2456191
   },
   {
-   "n": 24,
+   "n": 30,
    "file": "papers/social/24_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1747,7 +5117,7 @@
    "size": 1765929
   },
   {
-   "n": 25,
+   "n": 31,
    "file": "papers/social/25_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1757,7 +5127,7 @@
    "size": 4216434
   },
   {
-   "n": 26,
+   "n": 32,
    "file": "papers/social/26_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1767,7 +5137,7 @@
    "size": 4753095
   },
   {
-   "n": 27,
+   "n": 33,
    "file": "papers/social/27_2025_main_set2.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1777,7 +5147,7 @@
    "size": 4146456
   },
   {
-   "n": 28,
+   "n": 34,
    "file": "papers/social/28_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1787,7 +5157,7 @@
    "size": 2254670
   },
   {
-   "n": 29,
+   "n": 35,
    "file": "papers/social/29_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1797,7 +5167,7 @@
    "size": 2473600
   },
   {
-   "n": 30,
+   "n": 36,
    "file": "papers/social/30_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1807,7 +5177,7 @@
    "size": 1730983
   },
   {
-   "n": 31,
+   "n": 37,
    "file": "papers/social/31_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1817,7 +5187,367 @@
    "size": 4260181
   },
   {
-   "n": 32,
+   "n": 38,
+   "file": "papers/social/32-1-1 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1130359
+  },
+  {
+   "n": 39,
+   "file": "papers/social/32-1-1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2234795
+  },
+  {
+   "n": 40,
+   "file": "papers/social/32-1-2 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1166214
+  },
+  {
+   "n": 41,
+   "file": "papers/social/32-1-2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2195666
+  },
+  {
+   "n": 42,
+   "file": "papers/social/32-1-3 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1119246
+  },
+  {
+   "n": 43,
+   "file": "papers/social/32-1-3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2254670
+  },
+  {
+   "n": 44,
+   "file": "papers/social/32-2-1 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2620209
+  },
+  {
+   "n": 45,
+   "file": "papers/social/32-2-1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2480782
+  },
+  {
+   "n": 46,
+   "file": "papers/social/32-2-2 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2626802
+  },
+  {
+   "n": 47,
+   "file": "papers/social/32-2-2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2456191
+  },
+  {
+   "n": 48,
+   "file": "papers/social/32-2-3 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2649750
+  },
+  {
+   "n": 49,
+   "file": "papers/social/32-2-3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2473600
+  },
+  {
+   "n": 50,
+   "file": "papers/social/32-3-1 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1089620
+  },
+  {
+   "n": 51,
+   "file": "papers/social/32-3-1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1844567
+  },
+  {
+   "n": 52,
+   "file": "papers/social/32-3-2 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1133509
+  },
+  {
+   "n": 53,
+   "file": "papers/social/32-3-2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1765929
+  },
+  {
+   "n": 54,
+   "file": "papers/social/32-3-3 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1138452
+  },
+  {
+   "n": 55,
+   "file": "papers/social/32-3-3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1730983
+  },
+  {
+   "n": 56,
+   "file": "papers/social/32-4-1 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2512556
+  },
+  {
+   "n": 57,
+   "file": "papers/social/32-4-1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4309360
+  },
+  {
+   "n": 58,
+   "file": "papers/social/32-4-2 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2544711
+  },
+  {
+   "n": 59,
+   "file": "papers/social/32-4-2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4216434
+  },
+  {
+   "n": 60,
+   "file": "papers/social/32-4-3 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2527219
+  },
+  {
+   "n": 61,
+   "file": "papers/social/32-4-3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4260181
+  },
+  {
+   "n": 62,
+   "file": "papers/social/32-5-1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4833222
+  },
+  {
+   "n": 63,
+   "file": "papers/social/32-5-2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4753095
+  },
+  {
+   "n": 64,
+   "file": "papers/social/32-5-3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4769071
+  },
+  {
+   "n": 65,
+   "file": "papers/social/32-6-1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4151066
+  },
+  {
+   "n": 66,
+   "file": "papers/social/32-6-2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4146456
+  },
+  {
+   "n": 67,
+   "file": "papers/social/32-6-3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4124498
+  },
+  {
+   "n": 68,
+   "file": "papers/social/32_1_1 SOCIAL SCIENCE.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5613050
+  },
+  {
+   "n": 69,
+   "file": "papers/social/32_1_1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 7519165
+  },
+  {
+   "n": 70,
+   "file": "papers/social/32_1_2 SOCIAL SCIENCE.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5617063
+  },
+  {
+   "n": 71,
+   "file": "papers/social/32_1_2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 7546953
+  },
+  {
+   "n": 72,
+   "file": "papers/social/32_1_3 SOCIAL SCIENCE.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5645732
+  },
+  {
+   "n": 73,
+   "file": "papers/social/32_1_3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5864650
+  },
+  {
+   "n": 74,
    "file": "papers/social/32_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1827,7 +5557,247 @@
    "size": 4769071
   },
   {
-   "n": 33,
+   "n": 75,
+   "file": "papers/social/32_2_1 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1447845
+  },
+  {
+   "n": 76,
+   "file": "papers/social/32_2_1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4408378
+  },
+  {
+   "n": 77,
+   "file": "papers/social/32_2_2 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1419451
+  },
+  {
+   "n": 78,
+   "file": "papers/social/32_2_2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4391293
+  },
+  {
+   "n": 79,
+   "file": "papers/social/32_2_3 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1447803
+  },
+  {
+   "n": 80,
+   "file": "papers/social/32_2_3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 4356059
+  },
+  {
+   "n": 81,
+   "file": "papers/social/32_3_1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5117475
+  },
+  {
+   "n": 82,
+   "file": "papers/social/32_3_2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5142292
+  },
+  {
+   "n": 83,
+   "file": "papers/social/32_3_3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5128793
+  },
+  {
+   "n": 84,
+   "file": "papers/social/32_4_1 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 650768
+  },
+  {
+   "n": 85,
+   "file": "papers/social/32_4_1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 565165
+  },
+  {
+   "n": 86,
+   "file": "papers/social/32_4_2 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 650185
+  },
+  {
+   "n": 87,
+   "file": "papers/social/32_4_2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 565235
+  },
+  {
+   "n": 88,
+   "file": "papers/social/32_4_3 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 649391
+  },
+  {
+   "n": 89,
+   "file": "papers/social/32_4_3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 563800
+  },
+  {
+   "n": 90,
+   "file": "papers/social/32_5_1 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1245428
+  },
+  {
+   "n": 91,
+   "file": "papers/social/32_5_1_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 543068
+  },
+  {
+   "n": 92,
+   "file": "papers/social/32_5_2 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1267034
+  },
+  {
+   "n": 93,
+   "file": "papers/social/32_5_2_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 541794
+  },
+  {
+   "n": 94,
+   "file": "papers/social/32_5_3 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1272006
+  },
+  {
+   "n": 95,
+   "file": "papers/social/32_5_3_Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 540417
+  },
+  {
+   "n": 96,
+   "file": "papers/social/32_6_1 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5686649
+  },
+  {
+   "n": 97,
+   "file": "papers/social/32_6_2 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5636112
+  },
+  {
+   "n": 98,
+   "file": "papers/social/32_6_3 Social Science.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 5644642
+  },
+  {
+   "n": 99,
    "file": "papers/social/33_2025_main_set3.pdf",
    "year": 2025,
    "exam": "Main",
@@ -1837,7 +5807,7 @@
    "size": 4124498
   },
   {
-   "n": 34,
+   "n": 100,
    "file": "papers/social/34_2025_compartment.pdf",
    "year": 2025,
    "exam": "Compartment",
@@ -1847,7 +5817,7 @@
    "size": 729850
   },
   {
-   "n": 35,
+   "n": 101,
    "file": "papers/social/35_2025_compartment.pdf",
    "year": 2025,
    "exam": "Compartment",
@@ -1857,7 +5827,7 @@
    "size": 731260
   },
   {
-   "n": 36,
+   "n": 102,
    "file": "papers/social/36_2025_compartment.pdf",
    "year": 2025,
    "exam": "Compartment",
@@ -1867,7 +5837,7 @@
    "size": 728891
   },
   {
-   "n": 37,
+   "n": 103,
    "file": "papers/social/37_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1877,7 +5847,7 @@
    "size": 7519165
   },
   {
-   "n": 38,
+   "n": 104,
    "file": "papers/social/38_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1887,7 +5857,7 @@
    "size": 3043319
   },
   {
-   "n": 39,
+   "n": 105,
    "file": "papers/social/39_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1897,7 +5867,7 @@
    "size": 2090150
   },
   {
-   "n": 40,
+   "n": 106,
    "file": "papers/social/40_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1907,7 +5877,7 @@
    "size": 565165
   },
   {
-   "n": 41,
+   "n": 107,
    "file": "papers/social/41_2024_main_set1.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1917,7 +5887,37 @@
    "size": 543068
   },
   {
-   "n": 42,
+   "n": 108,
+   "file": "papers/social/42-3-1 Social Science punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 855055
+  },
+  {
+   "n": 109,
+   "file": "papers/social/42-3-2 Social Science punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 852337
+  },
+  {
+   "n": 110,
+   "file": "papers/social/42-3-3 Social Science punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 854891
+  },
+  {
+   "n": 111,
    "file": "papers/social/42_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1927,7 +5927,37 @@
    "size": 7546953
   },
   {
-   "n": 43,
+   "n": 112,
+   "file": "papers/social/42_2_1 Social Science punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1285955
+  },
+  {
+   "n": 113,
+   "file": "papers/social/42_2_2 Social Science punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1282685
+  },
+  {
+   "n": 114,
+   "file": "papers/social/42_2_3 Social Science punjabi version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1285543
+  },
+  {
+   "n": 115,
    "file": "papers/social/43_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1937,7 +5967,7 @@
    "size": 3042662
   },
   {
-   "n": 44,
+   "n": 116,
    "file": "papers/social/44_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1947,7 +5977,7 @@
    "size": 2088759
   },
   {
-   "n": 45,
+   "n": 117,
    "file": "papers/social/45_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1957,7 +5987,7 @@
    "size": 565235
   },
   {
-   "n": 46,
+   "n": 118,
    "file": "papers/social/46_2024_main_set2.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1967,7 +5997,7 @@
    "size": 541794
   },
   {
-   "n": 47,
+   "n": 119,
    "file": "papers/social/47_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1977,7 +6007,67 @@
    "size": 7536866
   },
   {
-   "n": 48,
+   "n": 120,
+   "file": "papers/social/48-2-1 Social Science urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1062614
+  },
+  {
+   "n": 121,
+   "file": "papers/social/48-2-2 Social Science urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1061009
+  },
+  {
+   "n": 122,
+   "file": "papers/social/48-2-3 Social Science Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1062927
+  },
+  {
+   "n": 123,
+   "file": "papers/social/48-4-1 Social Science Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1275843
+  },
+  {
+   "n": 124,
+   "file": "papers/social/48-4-2 Social Science Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1276029
+  },
+  {
+   "n": 125,
+   "file": "papers/social/48-4-3 Social Science Urdu version.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1274059
+  },
+  {
+   "n": 126,
    "file": "papers/social/48_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1987,7 +6077,7 @@
    "size": 3042960
   },
   {
-   "n": 49,
+   "n": 127,
    "file": "papers/social/49_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -1997,7 +6087,7 @@
    "size": 2089165
   },
   {
-   "n": 50,
+   "n": 128,
    "file": "papers/social/50_2024_main_set3.pdf",
    "year": 2024,
    "exam": "Main",
@@ -2125,7 +6215,7 @@
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 1907876
   },
   {
@@ -2145,7 +6235,7 @@
    "exam": "Compartment",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 3821750
   },
   {
@@ -2155,7 +6245,7 @@
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 204475
   },
   {
@@ -2165,7 +6255,7 @@
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSEGuess",
+   "source": "CBSE Official",
    "size": 170534
   },
   {
@@ -2175,7 +6265,7 @@
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 1758859
   },
   {
@@ -2185,7 +6275,7 @@
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSEGuess",
+   "source": "CBSE Official",
    "size": 1706912
   },
   {
@@ -2205,7 +6295,7 @@
    "exam": "Compartment",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 195198
   },
   {
@@ -2215,7 +6305,7 @@
    "exam": "Main",
    "set": "4",
    "type": "Board",
-   "source": "CBSEGuess",
+   "source": "CBSE Official",
    "size": 1658861
   },
   {
@@ -2225,7 +6315,7 @@
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 1702234
   },
   {
@@ -2235,7 +6325,7 @@
    "exam": "Compartment",
    "set": "",
    "type": "Board",
-   "source": "CBSEGuess",
+   "source": "CBSE Official",
    "size": 4039636
   },
   {
@@ -2245,7 +6335,7 @@
    "exam": "Main",
    "set": "1",
    "type": "Board",
-   "source": "CBSEGuess",
+   "source": "CBSE Official",
    "size": 3169388
   },
   {
@@ -2255,7 +6345,7 @@
    "exam": "Main",
    "set": "1",
    "type": "Board",
-   "source": "CBSEGuess",
+   "source": "CBSE Official",
    "size": 253466
   },
   {
@@ -2265,7 +6355,7 @@
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Archive",
+   "source": "CBSE Official",
    "size": 2099397
   },
   {
@@ -2275,7 +6365,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 1208094
   },
   {
@@ -2285,7 +6375,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 405152
   },
   {
@@ -2295,7 +6385,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 315119
   },
   {
@@ -2305,7 +6395,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 1342639
   },
   {
@@ -2315,7 +6405,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 1465639
   },
   {
@@ -2325,7 +6415,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 794887
   },
   {
@@ -2335,7 +6425,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 3721752
   },
   {
@@ -2345,7 +6435,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 2815084
   },
   {
@@ -2355,7 +6445,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 1019959
   },
   {
@@ -2365,7 +6455,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 1064187
   },
   {
@@ -2375,7 +6465,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 1088978
   },
   {
@@ -2385,7 +6475,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 257432
   },
   {
@@ -2395,7 +6485,7 @@
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 2113271
   }
  ],
@@ -2427,7 +6517,7 @@
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 331954
   },
   {
@@ -2437,7 +6527,7 @@
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 450775
   },
   {
@@ -2467,7 +6557,7 @@
    "exam": "Compartment",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 575300
   },
   {
@@ -2492,26 +6582,56 @@
   },
   {
    "n": 10,
+   "file": "papers/ait/104 Artificial Intelligence.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1419928
+  },
+  {
+   "n": 11,
+   "file": "papers/ait/104_Artificial_Intelleigence_NEW.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 450775
+  },
+  {
+   "n": 12,
+   "file": "papers/ait/104_Artificial_Intelligence.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2462299
+  },
+  {
+   "n": 13,
    "file": "papers/ait/10_2024_main.pdf",
    "year": 2024,
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 3173231
   },
   {
-   "n": 11,
+   "n": 14,
    "file": "papers/ait/11_2024_main.pdf",
    "year": 2024,
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 921619
   },
   {
-   "n": 12,
+   "n": 15,
    "file": "papers/ait/12_2023_main.pdf",
    "year": 2023,
    "exam": "Main",
@@ -2521,7 +6641,7 @@
    "size": 2492392
   },
   {
-   "n": 13,
+   "n": 16,
    "file": "papers/ait/13_2023_main.pdf",
    "year": 2023,
    "exam": "Main",
@@ -2531,7 +6651,7 @@
    "size": 3487309
   },
   {
-   "n": 14,
+   "n": 17,
    "file": "papers/ait/14_2023_compartment.pdf",
    "year": 2023,
    "exam": "Compartment",
@@ -2541,7 +6661,7 @@
    "size": 1363297
   },
   {
-   "n": 15,
+   "n": 18,
    "file": "papers/ait/15_2022_main.pdf",
    "year": 2022,
    "exam": "Main",
@@ -2551,7 +6671,7 @@
    "size": 1433953
   },
   {
-   "n": 16,
+   "n": 19,
    "file": "papers/ait/16_2022_main.pdf",
    "year": 2022,
    "exam": "Main",
@@ -2561,7 +6681,7 @@
    "size": 1419928
   },
   {
-   "n": 17,
+   "n": 20,
    "file": "papers/ait/17_2022_compartment.pdf",
    "year": 2022,
    "exam": "Compartment",
@@ -2571,17 +6691,17 @@
    "size": 651096
   },
   {
-   "n": 18,
+   "n": 21,
    "file": "papers/ait/18_2021_compartment.pdf",
    "year": 2021,
    "exam": "Compartment",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 176128
   },
   {
-   "n": 19,
+   "n": 22,
    "file": "papers/ait/19_2020_main.pdf",
    "year": 2020,
    "exam": "Main",
@@ -2591,7 +6711,7 @@
    "size": 317352
   },
   {
-   "n": 20,
+   "n": 23,
    "file": "papers/ait/20_2019_main.pdf",
    "year": 2019,
    "exam": "Main",
@@ -2601,17 +6721,17 @@
    "size": 212436
   },
   {
-   "n": 21,
+   "n": 24,
    "file": "papers/ait/21_2019_main.pdf",
    "year": 2019,
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 249933
   },
   {
-   "n": 22,
+   "n": 25,
    "file": "papers/ait/22_2018_main.pdf",
    "year": 2018,
    "exam": "Main",
@@ -2621,154 +6741,1498 @@
    "size": 615141
   },
   {
-   "n": 23,
+   "n": 26,
    "file": "papers/ait/23_2018_main.pdf",
    "year": 2018,
    "exam": "Main",
    "set": "",
    "type": "Board",
-   "source": "CBSE Mirror",
+   "source": "CBSE Official",
    "size": 560681
   },
   {
-   "n": 24,
+   "n": 27,
    "file": "papers/ait/24_2026_sample_paper.pdf",
    "year": 2026,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 989736
   },
   {
-   "n": 25,
+   "n": 28,
    "file": "papers/ait/25_2026_sample_paper.pdf",
    "year": 2026,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 4376084
   },
   {
-   "n": 26,
+   "n": 29,
    "file": "papers/ait/26_2025_sample_paper.pdf",
    "year": 2025,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 377426
   },
   {
-   "n": 27,
+   "n": 30,
    "file": "papers/ait/27_2025_sample_paper.pdf",
    "year": 2025,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 973317
   },
   {
-   "n": 28,
+   "n": 31,
    "file": "papers/ait/28_2024_sample_paper.pdf",
    "year": 2024,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 353947
   },
   {
-   "n": 29,
+   "n": 32,
    "file": "papers/ait/29_2024_sample_paper.pdf",
    "year": 2024,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 257854
   },
   {
-   "n": 30,
+   "n": 33,
    "file": "papers/ait/30_2023_sample_paper.pdf",
    "year": 2023,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 626033
   },
   {
-   "n": 31,
+   "n": 34,
    "file": "papers/ait/31_2023_sample_paper.pdf",
    "year": 2023,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 863691
   },
   {
-   "n": 32,
+   "n": 35,
    "file": "papers/ait/32_2022_sample_paper.pdf",
    "year": 2022,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 456507
   },
   {
-   "n": 33,
+   "n": 36,
    "file": "papers/ait/33_2022_sample_paper.pdf",
    "year": 2022,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 461769
   },
   {
-   "n": 34,
+   "n": 37,
    "file": "papers/ait/34_2022_sample_paper.pdf",
    "year": 2022,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 361992
   },
   {
-   "n": 35,
+   "n": 38,
    "file": "papers/ait/35_2022_sample_paper.pdf",
    "year": 2022,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 351319
   },
   {
-   "n": 36,
+   "n": 39,
    "file": "papers/ait/36_2021_sample_paper.pdf",
    "year": 2021,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 758180
   },
   {
-   "n": 37,
+   "n": 40,
    "file": "papers/ait/37_2021_sample_paper.pdf",
    "year": 2021,
    "exam": "Sample",
    "set": "",
    "type": "Sample",
-   "source": "CBSE Official SQP",
+   "source": "CBSE Official",
    "size": 676750
+  },
+  {
+   "n": 41,
+   "file": "papers/ait/53_Computer Applications.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 499562
+  },
+  {
+   "n": 42,
+   "file": "papers/ait/53_Computer_Application.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 623831
+  },
+  {
+   "n": 43,
+   "file": "papers/ait/53_Computer_Applications.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 565973
+  },
+  {
+   "n": 44,
+   "file": "papers/ait/89 Information Technology.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1433953
+  },
+  {
+   "n": 45,
+   "file": "papers/ait/89_Information_Technology.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 501172
+  },
+  {
+   "n": 46,
+   "file": "papers/ait/Artificial_Intelleigence.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 799529
+  },
+  {
+   "n": 47,
+   "file": "papers/ait/Computer_Application.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 761515
+  },
+  {
+   "n": 48,
+   "file": "papers/ait/Information_Technology.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 658042
+  }
+ ],
+ "hindi_a": [
+  {
+   "n": 1,
+   "file": "papers/hindi_a/3-1-1 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 180767
+  },
+  {
+   "n": 2,
+   "file": "papers/hindi_a/3-1-1_Hindi A (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2045064
+  },
+  {
+   "n": 3,
+   "file": "papers/hindi_a/3-1-1_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1722778
+  },
+  {
+   "n": 4,
+   "file": "papers/hindi_a/3-1-2  Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 182142
+  },
+  {
+   "n": 5,
+   "file": "papers/hindi_a/3-1-2_Hindi A (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2039638
+  },
+  {
+   "n": 6,
+   "file": "papers/hindi_a/3-1-2_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1718335
+  },
+  {
+   "n": 7,
+   "file": "papers/hindi_a/3-1-3  Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 181776
+  },
+  {
+   "n": 8,
+   "file": "papers/hindi_a/3-1-3_Hindi A (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2047067
+  },
+  {
+   "n": 9,
+   "file": "papers/hindi_a/3-1-3_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1722744
+  },
+  {
+   "n": 10,
+   "file": "papers/hindi_a/3-2-1 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 565681
+  },
+  {
+   "n": 11,
+   "file": "papers/hindi_a/3-2-1_Hindi A (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1588345
+  },
+  {
+   "n": 12,
+   "file": "papers/hindi_a/3-2-1_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1723988
+  },
+  {
+   "n": 13,
+   "file": "papers/hindi_a/3-2-2 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 548128
+  },
+  {
+   "n": 14,
+   "file": "papers/hindi_a/3-2-2_Hindi A (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1590730
+  },
+  {
+   "n": 15,
+   "file": "papers/hindi_a/3-2-2_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1728117
+  },
+  {
+   "n": 16,
+   "file": "papers/hindi_a/3-2-3 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 556251
+  },
+  {
+   "n": 17,
+   "file": "papers/hindi_a/3-2-3_Hindi A (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1595693
+  },
+  {
+   "n": 18,
+   "file": "papers/hindi_a/3-2-3_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1723062
+  },
+  {
+   "n": 19,
+   "file": "papers/hindi_a/3-3-1 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 183402
+  },
+  {
+   "n": 20,
+   "file": "papers/hindi_a/3-3-1_Hindi A (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1552933
+  },
+  {
+   "n": 21,
+   "file": "papers/hindi_a/3-3-1_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1830333
+  },
+  {
+   "n": 22,
+   "file": "papers/hindi_a/3-3-2 Hindi a.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 183939
+  },
+  {
+   "n": 23,
+   "file": "papers/hindi_a/3-3-2_Hindi A (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1554255
+  },
+  {
+   "n": 24,
+   "file": "papers/hindi_a/3-3-2_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1826323
+  },
+  {
+   "n": 25,
+   "file": "papers/hindi_a/3-3-3 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 183616
+  },
+  {
+   "n": 26,
+   "file": "papers/hindi_a/3-3-3_Hindi A (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1549338
+  },
+  {
+   "n": 27,
+   "file": "papers/hindi_a/3-3-3_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1833747
+  },
+  {
+   "n": 28,
+   "file": "papers/hindi_a/3-4-1 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 648926
+  },
+  {
+   "n": 29,
+   "file": "papers/hindi_a/3-4-1_Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 768867
+  },
+  {
+   "n": 30,
+   "file": "papers/hindi_a/3-4-1_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1850689
+  },
+  {
+   "n": 31,
+   "file": "papers/hindi_a/3-4-2 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 651157
+  },
+  {
+   "n": 32,
+   "file": "papers/hindi_a/3-4-2_Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 768214
+  },
+  {
+   "n": 33,
+   "file": "papers/hindi_a/3-4-2_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1844738
+  },
+  {
+   "n": 34,
+   "file": "papers/hindi_a/3-4-3 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 665452
+  },
+  {
+   "n": 35,
+   "file": "papers/hindi_a/3-4-3_Hindi (A).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 770256
+  },
+  {
+   "n": 36,
+   "file": "papers/hindi_a/3-4-3_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1849572
+  },
+  {
+   "n": 37,
+   "file": "papers/hindi_a/3-5-1_Hindi (A).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 770130
+  },
+  {
+   "n": 38,
+   "file": "papers/hindi_a/3-5-1_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2474693
+  },
+  {
+   "n": 39,
+   "file": "papers/hindi_a/3-5-2_Hindi (A).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 770966
+  },
+  {
+   "n": 40,
+   "file": "papers/hindi_a/3-5-2_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2466743
+  },
+  {
+   "n": 41,
+   "file": "papers/hindi_a/3-5-3_Hindi (A).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 771296
+  },
+  {
+   "n": 42,
+   "file": "papers/hindi_a/3-5-3_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2461737
+  },
+  {
+   "n": 43,
+   "file": "papers/hindi_a/3-6-1_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2442899
+  },
+  {
+   "n": 44,
+   "file": "papers/hindi_a/3-6-2_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2452035
+  },
+  {
+   "n": 45,
+   "file": "papers/hindi_a/3-6-3_Hindi Course A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2435441
+  },
+  {
+   "n": 46,
+   "file": "papers/hindi_a/3_1_1 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2457007
+  },
+  {
+   "n": 47,
+   "file": "papers/hindi_a/3_1_2 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2464893
+  },
+  {
+   "n": 48,
+   "file": "papers/hindi_a/3_1_3 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2435513
+  },
+  {
+   "n": 49,
+   "file": "papers/hindi_a/3_2_1 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2104572
+  },
+  {
+   "n": 50,
+   "file": "papers/hindi_a/3_2_2 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2109509
+  },
+  {
+   "n": 51,
+   "file": "papers/hindi_a/3_2_3 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2113522
+  },
+  {
+   "n": 52,
+   "file": "papers/hindi_a/3_3_1 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2081654
+  },
+  {
+   "n": 53,
+   "file": "papers/hindi_a/3_3_2 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2156880
+  },
+  {
+   "n": 54,
+   "file": "papers/hindi_a/3_3_3 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2120147
+  },
+  {
+   "n": 55,
+   "file": "papers/hindi_a/3_4_1 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1052711
+  },
+  {
+   "n": 56,
+   "file": "papers/hindi_a/3_4_2 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 149166
+  },
+  {
+   "n": 57,
+   "file": "papers/hindi_a/3_4_3 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1075417
+  },
+  {
+   "n": 58,
+   "file": "papers/hindi_a/3_5_1 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1111940
+  },
+  {
+   "n": 59,
+   "file": "papers/hindi_a/3_5_2 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1166658
+  },
+  {
+   "n": 60,
+   "file": "papers/hindi_a/3_5_3 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1068264
+  },
+  {
+   "n": 61,
+   "file": "papers/hindi_a/3_6_1 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2674162
+  },
+  {
+   "n": 62,
+   "file": "papers/hindi_a/3_6_2 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2645564
+  },
+  {
+   "n": 63,
+   "file": "papers/hindi_a/3_6_3 Hindi A.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2650963
+  }
+ ],
+ "hindi_b": [
+  {
+   "n": 1,
+   "file": "papers/hindi_b/1180-1_4-4-1_Hindi (B).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 836671
+  },
+  {
+   "n": 2,
+   "file": "papers/hindi_b/1180-2_4-4-2_Hindi (B).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 794352
+  },
+  {
+   "n": 3,
+   "file": "papers/hindi_b/1180-3_4-4-3_Hindi (B).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 836519
+  },
+  {
+   "n": 4,
+   "file": "papers/hindi_b/1181-1_4-5-1_Hindi (B).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 843682
+  },
+  {
+   "n": 5,
+   "file": "papers/hindi_b/1181-2_4-5-2_Hindi (B).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 888546
+  },
+  {
+   "n": 6,
+   "file": "papers/hindi_b/1181-3_4-5-3_Hindi (B).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 950054
+  },
+  {
+   "n": 7,
+   "file": "papers/hindi_b/4-1-1 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 184974
+  },
+  {
+   "n": 8,
+   "file": "papers/hindi_b/4-1-1_Hindi B (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2124288
+  },
+  {
+   "n": 9,
+   "file": "papers/hindi_b/4-1-1_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1671445
+  },
+  {
+   "n": 10,
+   "file": "papers/hindi_b/4-1-2 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 183726
+  },
+  {
+   "n": 11,
+   "file": "papers/hindi_b/4-1-2_Hindi B (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2134391
+  },
+  {
+   "n": 12,
+   "file": "papers/hindi_b/4-1-2_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1666042
+  },
+  {
+   "n": 13,
+   "file": "papers/hindi_b/4-1-3 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 184315
+  },
+  {
+   "n": 14,
+   "file": "papers/hindi_b/4-1-3_Hindi B (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2133584
+  },
+  {
+   "n": 15,
+   "file": "papers/hindi_b/4-1-3_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1660708
+  },
+  {
+   "n": 16,
+   "file": "papers/hindi_b/4-2-1 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 585239
+  },
+  {
+   "n": 17,
+   "file": "papers/hindi_b/4-2-1_Hindi B (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1597817
+  },
+  {
+   "n": 18,
+   "file": "papers/hindi_b/4-2-1_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1660813
+  },
+  {
+   "n": 19,
+   "file": "papers/hindi_b/4-2-2 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 576084
+  },
+  {
+   "n": 20,
+   "file": "papers/hindi_b/4-2-2_Hindi B (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1587677
+  },
+  {
+   "n": 21,
+   "file": "papers/hindi_b/4-2-2_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1667216
+  },
+  {
+   "n": 22,
+   "file": "papers/hindi_b/4-2-3 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 585926
+  },
+  {
+   "n": 23,
+   "file": "papers/hindi_b/4-2-3_Hindi B (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1608964
+  },
+  {
+   "n": 24,
+   "file": "papers/hindi_b/4-2-3_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1681225
+  },
+  {
+   "n": 25,
+   "file": "papers/hindi_b/4-3-1 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 183311
+  },
+  {
+   "n": 26,
+   "file": "papers/hindi_b/4-3-1_Hindi B (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1602437
+  },
+  {
+   "n": 27,
+   "file": "papers/hindi_b/4-3-1_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1719295
+  },
+  {
+   "n": 28,
+   "file": "papers/hindi_b/4-3-2 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 182667
+  },
+  {
+   "n": 29,
+   "file": "papers/hindi_b/4-3-2_Hindi B (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1615322
+  },
+  {
+   "n": 30,
+   "file": "papers/hindi_b/4-3-2_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1726182
+  },
+  {
+   "n": 31,
+   "file": "papers/hindi_b/4-3-3 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 182508
+  },
+  {
+   "n": 32,
+   "file": "papers/hindi_b/4-3-3_Hindi B (1).pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1604321
+  },
+  {
+   "n": 33,
+   "file": "papers/hindi_b/4-3-3_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1721450
+  },
+  {
+   "n": 34,
+   "file": "papers/hindi_b/4-4-1 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 592866
+  },
+  {
+   "n": 35,
+   "file": "papers/hindi_b/4-4-1_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1942751
+  },
+  {
+   "n": 36,
+   "file": "papers/hindi_b/4-4-2 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 573811
+  },
+  {
+   "n": 37,
+   "file": "papers/hindi_b/4-4-2_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1946247
+  },
+  {
+   "n": 38,
+   "file": "papers/hindi_b/4-4-3 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 586259
+  },
+  {
+   "n": 39,
+   "file": "papers/hindi_b/4-4-3_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1955479
+  },
+  {
+   "n": 40,
+   "file": "papers/hindi_b/4-5-1_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2506854
+  },
+  {
+   "n": 41,
+   "file": "papers/hindi_b/4-5-2_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2520088
+  },
+  {
+   "n": 42,
+   "file": "papers/hindi_b/4-5-3_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2526580
+  },
+  {
+   "n": 43,
+   "file": "papers/hindi_b/4-6-1_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2556855
+  },
+  {
+   "n": 44,
+   "file": "papers/hindi_b/4-6-2_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2567235
+  },
+  {
+   "n": 45,
+   "file": "papers/hindi_b/4-6-3_Hindi Course B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2578104
+  },
+  {
+   "n": 46,
+   "file": "papers/hindi_b/4_1_1 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2077237
+  },
+  {
+   "n": 47,
+   "file": "papers/hindi_b/4_1_2 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2094940
+  },
+  {
+   "n": 48,
+   "file": "papers/hindi_b/4_1_3 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "1",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2072940
+  },
+  {
+   "n": 49,
+   "file": "papers/hindi_b/4_2_1 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2102407
+  },
+  {
+   "n": 50,
+   "file": "papers/hindi_b/4_2_2 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2052284
+  },
+  {
+   "n": 51,
+   "file": "papers/hindi_b/4_2_3 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "2",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2075155
+  },
+  {
+   "n": 52,
+   "file": "papers/hindi_b/4_3_1 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2098839
+  },
+  {
+   "n": 53,
+   "file": "papers/hindi_b/4_3_2 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2116956
+  },
+  {
+   "n": 54,
+   "file": "papers/hindi_b/4_3_3 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "3",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2120752
+  },
+  {
+   "n": 55,
+   "file": "papers/hindi_b/4_4_1 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1457495
+  },
+  {
+   "n": 56,
+   "file": "papers/hindi_b/4_4_2 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1474055
+  },
+  {
+   "n": 57,
+   "file": "papers/hindi_b/4_4_3 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1489767
+  },
+  {
+   "n": 58,
+   "file": "papers/hindi_b/4_5_1 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1598590
+  },
+  {
+   "n": 59,
+   "file": "papers/hindi_b/4_5_2 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 1630581
+  },
+  {
+   "n": 60,
+   "file": "papers/hindi_b/4_5_3 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 984760
+  },
+  {
+   "n": 61,
+   "file": "papers/hindi_b/4_6_1 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2153346
+  },
+  {
+   "n": 62,
+   "file": "papers/hindi_b/4_6_2 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2132524
+  },
+  {
+   "n": 63,
+   "file": "papers/hindi_b/4_6_3 Hindi B.pdf",
+   "year": 2024,
+   "exam": "Main",
+   "set": "",
+   "type": "Board",
+   "source": "CBSE Official",
+   "size": 2124683
   }
  ]
 }
