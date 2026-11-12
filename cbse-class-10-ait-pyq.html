@@ -111,6 +111,10 @@
     <div class="panel-header">
       <span id="list-count"></span>
     </div>
+    <div id="chunk-downloads" style="padding:0.7rem 1rem;border-bottom:1px solid var(--border);background:#181818;display:flex;flex-direction:column;gap:0.45rem;">
+      <span style="font-size:0.75rem;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.04em;">Download in parts:</span>
+      <div id="chunk-links" style="display:flex;flex-direction:column;gap:0.35rem;"></div>
+    </div>
     <div class="paper-list" id="paper-list"></div>
   </div>
   <div class="panel" id="viewer-col">
@@ -135,6 +139,26 @@ function renderList() {
   const dlBtn = document.getElementById("dl-all-btn");
   dlBtn.href = "https://github.com/boards10/boards10.github.io/releases/download/v1.0.0/" + curSubj + ".zip";
   dlBtn.innerHTML = `📥 Download All ${subjName} Papers (ZIP)`;
+  // --- Chunk download links ---
+  const chunkEl = document.getElementById("chunk-links");
+  if (chunkEl) {
+    chunkEl.innerHTML = "";
+    const total = papers.length;
+    const chunkSize = 50;
+    const numParts = Math.ceil(total / chunkSize);
+    for (let i = 1; i <= numParts; i++) {
+      const start = (i - 1) * chunkSize + 1;
+      const end = Math.min(i * chunkSize, total);
+      const count = end - start + 1;
+      const a = document.createElement("a");
+      a.href = "https://github.com/boards10/boards10.github.io/releases/download/v1.0.0/" + curSubj + "_part" + i + ".zip";
+      a.className = "btn outline";
+      a.setAttribute("download", "");
+      a.style.cssText = "display:block;text-align:center;font-size:0.8rem;padding:0.4rem 0.6rem;";
+      a.textContent = subjName + " PYQ Part " + i + " (" + count + " Papers)";
+      chunkEl.appendChild(a);
+    }
+  }
   document.getElementById("viewer-title").textContent = "Select a paper to preview";
   document.getElementById("dl-one-btn").style.display = "none";
   document.getElementById("pdf-viewer").src = "about:blank";
