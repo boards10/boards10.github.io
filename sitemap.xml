@@ -43,6 +43,13 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://boards10.github.io/cbse-class-10-maths-mcq.html</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
     <loc>https://boards10.github.io/cbse-class-10-science-pyq.html</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>weekly</changefreq>
